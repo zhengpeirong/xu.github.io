@@ -21,7 +21,7 @@ I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, 
 
 
 # 🔥 News
-&nbsp;🎉🎉 We have some fully funded openings for **1) PhD Student**, **2) Postdoctoral Researcher**, and **3) Research Assistant** to work and have fun together on multiple research projects. Drop me an email (wenchao.xu@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
+&nbsp;🎉🎉 We have some fully funded openings for **1) PhD Student**, **2) Postdoctoral Researcher**, and **3) Research Assistant** to work and have fun together on multiple research projects. Drop me an email (wenchao.xu@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
 - *2023.07*: &nbsp;🎉🎉 One General Research Fund (GRF) project has been funded by [Research Grants Council (RGC) of Hong Kong](https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html). 
 
 # 📝 Publications 
@@ -32,7 +32,7 @@ I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, 
 
 - [Internet of vehicles in big data era](https://ieeexplore.ieee.org/abstract/document/8232587), **W. Xu**, H. Zhou, N. Cheng, F. Lyu, W. Shi, J. Chen, X. Shen **IEEE/CAA Journal of Automatica Sinica (Highly cited paper)** 2017
 
-- [PMR: Prototypical Modal Rebalance for Multimodal Learning](https://openaccess.thecvf.com/content/CVPR2023/html/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.html), Y. Fan, **W. Xu** H. Wang, J. Wang, S. Guo **CVPR** 2023
+- [PMR: Prototypical Modal Rebalance for Multimodal Learning](https://openaccess.thecvf.com/content/CVPR2023/html/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.html), Y. Fan, **W. Xu** H. Wang, J. Wang, S. Guo, **CVPR** 2023
 
 - [DaFKD: Domain-aware Federated Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.html), H. Wang, Y. Li, W. Xu, R. Li, Y. Zhan, Z. Zeng, **CVPR** 2023
 
