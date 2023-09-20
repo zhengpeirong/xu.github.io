@@ -17,12 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, in 2008 and 2011, respectively. I received the Ph.D. degree with the Department of Electrical and Computer Engineering, University of Waterloo in 2018 under the supervision of [Xuemin(Sherman) Shen](https://uwaterloo.ca/scholar/sshen). I am currently a research assistant professor with [Department of Computing](https://www.polyu.edu.hk/comp/) in [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/people/academic-staff/dr-xu-wenchao/). My research areas include **mobile computing**, **AI enabled networking**, **multimodal learning**, **edge AI**, **Internet of things**. I have published more than 90 papers at the top international journal and conferences with total <a href='https://scholar.google.com/citations?user=xaTK57QAAAAJ&hl=zh-CN&oi=ao'>google scholar citations <strong><span id='total_cit'>3400+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=xaTK57QAAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, in 2008 and 2011, respectively. I received the Ph.D. degree with the Department of Electrical and Computer Engineering, University of Waterloo in 2018 under the supervision of [Xuemin(Sherman) Shen](https://uwaterloo.ca/scholar/sshen). I am currently a research assistant professor with [Department of Computing](https://www.polyu.edu.hk/comp/) in [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/people/academic-staff/dr-xu-wenchao/). My research areas include **mobile computing**, **AI enabled networking**, **multimodal learning**, **edge AI**, **Internet of things**. I have published more than 90 papers at the top international journal and conferences with total <a href='https://scholar.google.com/citations?user=xaTK57QAAAAJ&hl=zh-CN&oi=ao'>google scholar citations <strong><span id='total_cit'>3400+</span></strong></a>.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07*: &nbsp;🎉🎉 One General Research Fund (GRF) project has been funded by [Research Grants Council (RGC) of Hong Kong](https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html). 
 
 # 📝 Publications 
 
