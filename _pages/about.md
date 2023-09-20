@@ -37,16 +37,26 @@ I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* Best Paper Award, PIMRC. 
+- *2023* Best Demo Award Winner, ICCC.
+- *2020* Nobert Wiener Review Award, IEEE/CAA.
+- *2018* Best Paper Award, IEEE Globecom.
+- *2018* Ontario Research & Development Challenge Fund Bell Scholarship. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2014.09 - 2018.09*, Master of Engineering, University of Waterloo, Waterloo, Ontario,Canada 
+- *2008.09 - 2011.03*, Master of Engineering, Zhejiang University, Hangzhou, China. 
+- *2004.09 - 2008.06*, Chu Kochen Honors College, Zhejiang University, Hangzhou, China. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Mentoring
+- *2022.09 - now*, Fushuo Huo, Ph.D. student at The Hong Kong Polytechnic University, Chief supervisor on multimodal learning
+- *2022.09 - now*, Jinyu Chen, Ph.D. student at The Hong Kong Polytechnic University, Chief supervisor on personalized federated learning
+- *2022.09 - now*, Yunfeng Fan, Ph.D. student at The Hong Kong Polytechnic University, Chief supervisor on collaborative learning over multimodal Internet of things
+- *2021.09 - now*, Zhaoyi Lu, Remote Ph.D. student at Shanghai Jiaotong University May 2021—present, Co-supervisor on backdoor attack and wireless fingerprinting
+- *2021.09 - 2022.09*, Haodong Wan, Research Assistant, The Hong Kong Polytechnic University, Mentoring on AI enabled medium access protocol (MSc Student from Xidian Univ.)
+- *2021.09 - 2022.05*, Hao Dong, Research Assistant, The Hong Kong Polytechnic University, Mentoring on intelligent networking (Ph.D. Student from Shanghai Jiaotong Univ.)
+
