@@ -54,10 +54,10 @@ I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Mentoring
-- *2022.09 - now*, Fushuo Huo, Ph.D. student at PolyU, Chief supervisor on multimodal learning
-- *2022.09 - now*, Jinyu Chen, Ph.D. student at PolyU, Chief supervisor on personalized federated learning
-- *2022.09 - now*, Yunfeng Fan, Ph.D. student at PolyU, Chief supervisor on collaborative learning over multimodal Internet of things
-- *2021.09 - now*, Zhaoyi Lu, Remote Ph.D. student at SJTU May 2021—present, Co-supervisor on backdoor attack and wireless fingerprinting
-- *2021.09 - 2022.09*, Haodong Wan, Research Assistant, PolyU, Mentoring on AI enabled medium access protocol (MSc Student from Xidian Univ.)
-- *2021.09 - 2022.05*, Hao Dong, Research Assistant, PolyU, Mentoring on intelligent networking (Ph.D. Student from Shanghai Jiaotong Univ.)
+- *2022.09 - now*, Fushuo Huo, Ph.D. student at PolyU, Chief supervisor
+- *2022.09 - now*, Jinyu Chen, Ph.D. student at PolyU, Chief supervisor.
+- *2022.09 - now*, Yunfeng Fan, Ph.D. student at PolyU, Chief supervisor.
+- *2021.09 - now*, Zhaoyi Lu, Remote Ph.D. student at SJTU May 2021—present, Co-supervisor.
+- *2021.09 - 2022.09*, Haodong Wan, Research Assistant, PolyU, Mentoring.
+- *2021.09 - 2022.05*, Hao Dong, Research Assistant, PolyU, Mentoring.
 
