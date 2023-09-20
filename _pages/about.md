@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, in 2008 and 2011, respectively. I received the Ph.D. degree with the Department of Electrical and Computer Engineering, University of Waterloo in 2018 under the supervision of Xuemin(Sherman) Shen <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://uwaterloo.ca/scholar/sshen)'>. I am currently a research assistant professor in the Hong Kong Polytechnic University.   His research areas include mobile computing, AI enabled networking, multimodal learning, edge AI, Internet of things.
+I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, in 2008 and 2011, respectively. I received the Ph.D. degree with the Department of Electrical and Computer Engineering, University of Waterloo in 2018 under the supervision of Xuemin(Sherman) Shen. I am currently a research assistant professor in the Hong Kong Polytechnic University.   His research areas include mobile computing, AI enabled networking, multimodal learning, edge AI, Internet of things.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
