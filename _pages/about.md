@@ -49,10 +49,6 @@ I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, 
 - *2008.09 - 2011.03*, Master of Engineering, Zhejiang University, Hangzhou, China. 
 - *2004.09 - 2008.06*, Chu Kochen Honors College, Zhejiang University, Hangzhou, China. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Mentoring
 - *2022.09 - now*, Fushuo Huo, Ph.D. student at PolyU, Chief supervisor
 - *2022.09 - now*, Jinyu Chen, Ph.D. student at PolyU, Chief supervisor.
