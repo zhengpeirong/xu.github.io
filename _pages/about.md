@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, in 2008 and 2011, respectively. I received the Ph.D. degree with the Department of Electrical and Computer Engineering, University of Waterloo in 2018 under the supervision of [Xuemin(Sherman) Shen](https://uwaterloo.ca/scholar/sshen). I am currently a research assistant professor with [Department of Computing](https://www.polyu.edu.hk/comp/) in [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/people/academic-staff/dr-xu-wenchao/). My research areas include **mobile computing**, **AI enabled networking**, **multimodal learning**, **edge AI**, **Internet of things**. I have published more than 90 papers at the top international journal and conferences with total `<a href='https://scholar.google.com/citations?user=xaTK57QAAAAJ&hl=zh-CN&oi=ao'>`google scholar citations `<strong><span id='total_cit'>`3500+`</strong></a>`. More details please refer to [`<a href="./WenchaoXu_CV_20230912.pdf">`CV `</a>`].
+I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, in 2008 and 2011, respectively. I received the Ph.D. degree with the Department of Electrical and Computer Engineering, University of Waterloo in 2018 under the supervision of [Xuemin(Sherman) Shen](https://uwaterloo.ca/scholar/sshen). I am currently a research assistant professor with [Department of Computing](https://www.polyu.edu.hk/comp/) in [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/people/academic-staff/dr-xu-wenchao/). My research areas include **mobile computing**, **AI enabled networking**, **multimodal learning**, **edge AI**, **Internet of things**. I have published more than 90 papers at the top international journal and conferences with total <a href='https://scholar.google.com/citations?user=xaTK57QAAAAJ&hl=zh-CN&oi=ao'>google scholar citations <strong><span id='total_cit'>3500+</span></strong></a>. More details please refer to [<a href="./WenchaoXu_CV_20230912.pdf">CV</a>].
 
 # 🔥 News
 
@@ -25,26 +25,32 @@ I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, 
 - *2023.07*: &nbsp;🎉🎉 One General Research Fund (GRF) project has been funded by [Research Grants Council (RGC) of Hong Kong](https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html).
 
 # 📝 Publications
-
-<div class='paper-box'><div lass='paper-box-image'><div><div class="badge">IEEE T MOBILE COMPUT 2023</div><img src='../images/TMC23-1.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<style>
+    img {
+        width: 500px;
+        height: 300px;
+    }
+</style>
+<!--  style='width: 500px; height: 300px;' -->
+<div class='paper-box'><div lass='paper-box-image'><div><div class="badge">IEEE T MOBILE COMPUT 2023</div><img src='../images/TMC23-1.png'></div></div><div class='paper-box-text' markdown="1">
 
 - [Fast Packet Loss Inferring via Personalized Simulation-Reality Distillation](https://ieeexplore.ieee.org/abstract/document/10138917?casa_token=y8s7T1JqJmgAAAAA:A00d3DOaD0es1lS3I4uXfukHT1IInBTFOSVzNo4T898_E9L9oSlsJZsgUNYZd6cDFHNuAvHHIA), **W. Xu**, H. Wan, H. Wang, N. Cheng, Q. Chen, H. Zhou, S. Guo, **IEEE Transactions on Mobile Computing** 2023
 
-<div class='paper-box'><div lass='paper-box-image'><div><div class="badge">IEEE T MOBILE COMPUT 2023</div><img src='../images/TMC23-2.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div lass='paper-box-image'><div><div class="badge">IEEE T MOBILE COMPUT 2023</div><img src='../images/TMC23-2.png'></div></div><div class='paper-box-text' markdown="1">
 
 - [Mobile Collaborative Learning over Opportunistic Internet of Vehicles](https://ieeexplore.ieee.org/document/10119206), **W. Xu**, , H. Wang, Z. Lu, C. Hua, N. Cheng, S. Guo, **IEEE Transactions on Mobile Computing** 2023
 
-<div class='paper-box'><div lass='paper-box-image'><div><div class="badge">IEEE-CAA J AUTOMATIC 2017</div><img src='../images/AUTOMATIC17.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div lass='paper-box-image'><div><div class="badge">IEEE-CAA J AUTOMATIC 2017</div><img src='../images/AUTOMATIC17.png'></div></div><div class='paper-box-text' markdown="1">
 
 - [Internet of vehicles in big data era](https://ieeexplore.ieee.org/abstract/document/8232587), **W. Xu**, H. Zhou, N. Cheng, F. Lyu, W. Shi, J. Chen, X. Shen **IEEE/CAA Journal of Automatica Sinica (Highly cited paper)** 2017
 
-<div class='paper-box'><div lass='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/CVPR23-1.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div lass='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/CVPR23-1.png'></div></div><div class='paper-box-text' markdown="1">
 
 - [PMR: Prototypical Modal Rebalance for Multimodal Learning](https://openaccess.thecvf.com/content/CVPR2023/html/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.html), Y. Fan, **W. Xu** H. Wang, J. Wang, S. Guo, **CVPR** 2023
 
-<div class='paper-box'><div lass='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/CVPR23-2.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div lass='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/CVPR23-2.png'></div></div><div class='paper-box-text' markdown="1">
 
-- [DaFKD: Domain-aware Federated Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.html), H. Wang, Y. Li, **W. Xu**, R. Li, Y. Zhan, Z. Zeng, **CVR** 2023
+- [DaFKD: Domain-aware Federated Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.html), H. Wang, Y. Li, **W. Xu**, R. Li, Y. Zhan, Z. Zeng, **CVPR** 2023
 
 # 🎖 Honors and Awards
 
