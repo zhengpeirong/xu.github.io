@@ -28,7 +28,7 @@ Total Google Scholar Citations: {{ gs_data.citedby }} -->
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, in 2008 and 2011, respectively. I received the Ph.D. degree with the Department of Electrical and Computer Engineering, University of Waterloo in 2018 under the supervision of [Xuemin(Sherman) Shen](https://uwaterloo.ca/scholar/sshen). I am currently a research assistant professor with [Department of Computing](https://www.polyu.edu.hk/comp/) in [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/people/academic-staff/dr-xu-wenchao/). My research areas include **mobile computing**, **AI enabled networking**, **multimodal learning**, **edge AI**, **Internet of things**. I have published more than 90 papers at the top international journal and conferences with total <a href='https://scholar.google.com/citations?user=xaTK57QAAAAJ&hl=zh-CN&oi=ao'>google scholar citations <strong><span id='total_cit'></span></strong></a><a href='https://scholar.google.com/citations?user=xaTK57QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. More details please refer to [<a href="./WenchaoXu_CV_20230912.pdf">CV</a>].
+I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, in 2008 and 2011, respectively. I received the Ph.D. degree with the Department of Electrical and Computer Engineering, University of Waterloo in 2018 under the supervision of [Xuemin(Sherman) Shen](https://uwaterloo.ca/scholar/sshen). I am currently a research assistant professor with [Department of Computing](https://www.polyu.edu.hk/comp/) in [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/people/academic-staff/dr-xu-wenchao/). My research areas include **mobile computing**, **AI enabled networking**, **multimodal learning**, **edge AI**, **Internet of things**. I have published more than 90 papers at the top international journal and conferences with total <a href='https://scholar.google.com/citations?user=xaTK57QAAAAJ&hl=zh-CN&oi=ao'>google scholar citations <strong><span id='total_cit'></span></strong></a><a href='https://scholar.google.com/citations?user=xaTK57QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" class="original-size"></a>. More details please refer to [<a href="./WenchaoXu_CV_20230912.pdf">CV</a>].
 
 # 🔥 News
 
@@ -43,14 +43,19 @@ I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, 
         height: 150px;
     }
     .badge {
-        display: none;
-        position: absolute;
-        top: -40px; /* 调整这个值来控制 badge 与图片的间距 */
-        left: 50%;
-        transform: translateX(-50%);
-        /* background-color: white; */
-        padding: 5px 10px;
+      display: none;
+      position: absolute;
+      top: -40px; /* 调整这个值来控制 badge 与图片的间距 */
+      left: 50%;
+      transform: translateX(-50%);
+      /* background-color: white; */
+      padding: 5px 10px;
     }
+    .original-size {
+      width: auto;
+      height: auto;
+    }
+
     /* .paper-box-image {
       position: relative;
     } */
