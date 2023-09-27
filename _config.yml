@@ -8,7 +8,8 @@
 # Site Settings
 title                    : "Wenchao Xu"
 description              : "Research Assistant Professor at the Hong Kong Polytechnic University."
-repository               : "huasion23/huasion23.github.io"
+# repository               : "huasion23/huasion23.github.io"
+repository               : "zhengpeirong/zhengpeirong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,7 +28,7 @@ author:
   location         : "Hung Hom, Hong Kong"
   employer         : "PolyU"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xaTK57QAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=xaTK57QAAAAJ"
   email            : "wenchao.xu@polyu.edu.hk"
   researchgate     : "https://www.researchgate.net/profile/Wenchao-Xu"
   uri              :
