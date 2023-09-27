@@ -35,7 +35,7 @@ I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, 
 <!-- <a href='https://scholar.google.com/citations?user=xaTK57QAAAAJ&hl=zh-CN&oi=ao'>google scholar citations <strong><span id='total_cit'></span></strong></a> -->
 # 🔥 News
 
-&nbsp;🎉🎉 We have some **fully funded openings** for **1) PhD Student**, **2) Postdoctoral Researcher**, and **3) Research Assistant** to work and have fun together on multiple research projects. Drop me an email (wenchao.xu@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
+&nbsp;🎉🎉 We have some **open positions** for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. Drop me an email (wenchao.xu@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
 <! - *2023.07*: &nbsp;🎉🎉 One General Research Fund (GRF) project has been funded by [Research Grants Council (RGC) of Hong Kong](https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html).>
 
 
