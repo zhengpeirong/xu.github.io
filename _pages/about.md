@@ -13,10 +13,22 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<!-- {% assign gs_data = site.google-scholar-stats.gs_data.json %}
+Total Google Scholar Citations: {{ gs_data.citedby }} -->
+<script>
+  fetch('{{ url }}')
+    .then(response => response.json())
+    .then(data => {
+      var citedBy = data.message;
+      // 在这里可以使用 citedBy 变量，它包含了被引用次数
+      console.log("被引用次数:", citedBy);
+      document.getElementById('total_cit').innerText = citedBy;
+    });
+</script>
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, in 2008 and 2011, respectively. I received the Ph.D. degree with the Department of Electrical and Computer Engineering, University of Waterloo in 2018 under the supervision of [Xuemin(Sherman) Shen](https://uwaterloo.ca/scholar/sshen). I am currently a research assistant professor with [Department of Computing](https://www.polyu.edu.hk/comp/) in [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/people/academic-staff/dr-xu-wenchao/). My research areas include **mobile computing**, **AI enabled networking**, **multimodal learning**, **edge AI**, **Internet of things**. I have published more than 90 papers at the top international journal and conferences with total <a href='https://scholar.google.com/citations?user=xaTK57QAAAAJ&hl=zh-CN&oi=ao'>google scholar citations <strong><span id='total_cit'>3500+</span></strong></a>. More details please refer to [<a href="./WenchaoXu_CV_20230912.pdf">CV</a>].
+I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, in 2008 and 2011, respectively. I received the Ph.D. degree with the Department of Electrical and Computer Engineering, University of Waterloo in 2018 under the supervision of [Xuemin(Sherman) Shen](https://uwaterloo.ca/scholar/sshen). I am currently a research assistant professor with [Department of Computing](https://www.polyu.edu.hk/comp/) in [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/people/academic-staff/dr-xu-wenchao/). My research areas include **mobile computing**, **AI enabled networking**, **multimodal learning**, **edge AI**, **Internet of things**. I have published more than 90 papers at the top international journal and conferences with total <a href='https://scholar.google.com/citations?user=xaTK57QAAAAJ&hl=zh-CN&oi=ao'>google scholar citations <strong><span id='total_cit'></span></strong></a>. More details please refer to [<a href="./WenchaoXu_CV_20230912.pdf">CV</a>].
 
 # 🔥 News
 
@@ -31,10 +43,11 @@ I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, 
         height: 150px;
     }
     .badge {
-        display: none;
+        /* display: none; */
         position: absolute;
-        top: -20px; /* 调整这个值来控制 badge 与图片的间距 */
-        left: 0;
+        top: -40px; /* 调整这个值来控制 badge 与图片的间距 */
+        left: 50%;
+        transform: translateX(-50%);
         /* background-color: white; */
         padding: 5px 10px;
     }
