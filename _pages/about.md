@@ -31,15 +31,16 @@ I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, 
         height: 150px;
     }
     .badge {
+        display: none;
         position: absolute;
         top: -20px; /* 调整这个值来控制 badge 与图片的间距 */
-        right: 0;
+        left: 0;
         /* background-color: white; */
         padding: 5px 10px;
     }
-    .paper-box-image {
+    /* .paper-box-image {
       position: relative;
-    }
+    } */
 </style>
 
 
