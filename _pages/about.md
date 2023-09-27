@@ -22,7 +22,7 @@ Total Google Scholar Citations: {{ gs_data.citedby }} -->
       var citedBy = data.message;
       // 在这里可以使用 citedBy 变量，它包含了被引用次数
       console.log("被引用次数:", citedBy);
-      document.getElementById('total_cit').innerText = citedBy;
+      document.getElementById('total_cit').innerHTML = citedBy;
     });
 </script>
 
@@ -43,7 +43,7 @@ I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, 
         height: 150px;
     }
     .badge {
-        /* display: none; */
+        display: none;
         position: absolute;
         top: -40px; /* 调整这个值来控制 badge 与图片的间距 */
         left: 50%;
