@@ -39,7 +39,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 
 
 
-# 📝 Publications
+# 📝 Selected Publications
 <style>
     img {
         width: 250px;
