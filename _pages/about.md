@@ -30,7 +30,19 @@ I received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, 
         width: 250px;
         height: 150px;
     }
+    .badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: white;
+    padding: 5px 10px;
+    }
+    .paper-box-image {
+      position: relative;
+    }
 </style>
+
+
 <!--  style='width: 500px; height: 300px;' -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T MOBILE COMPUT 2023</div><img src='../images/TMC23-1.png'></div></div><div class='paper-box-text' markdown="1">
 
