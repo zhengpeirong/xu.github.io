@@ -118,3 +118,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 - *2021.09 - now*, Zhaoyi Lu, Remote Ph.D. student at SJTU, Co-supervisor.
 - *2021.09 - 2022.09*, Haodong Wan, Research Assistant, at PolyU, Mentoring.
 - *2021.09 - 2022.05*, Hao Dong, Research Assistant, at PolyU, Mentoring.
+
+# 📝 Publications
+
+1.	**Jian Tang**, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (IF:3.576；JCR分区:Q1) [[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/S-Kee/S-Kee.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
