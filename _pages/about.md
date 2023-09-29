@@ -106,9 +106,9 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 
 # 📖 Educations
 
-- *2014.09 - 2018.09*, Master of Engineering, University of Waterloo, Waterloo, Ontario,Canada
-- *2008.09 - 2011.03*, Master of Engineering, Zhejiang University, Hangzhou, China.
-- *2004.09 - 2008.06*, Chu Kochen Honors College, Zhejiang University, Hangzhou, China.
+- *2014.09 - 2018.09*, Ph.D., Electrical and Computer Engineering, University of Waterloo, Waterloo, Ontario,Canada
+- *2008.09 - 2011.03*, Master of Engineering, Information and Communication Engineering, Zhejiang University, Hangzhou, China.
+- *2004.09 - 2008.06*, Bachelor of Engineering, Communications Engineering, Chu Kochen Honors College, Zhejiang University, Hangzhou, China.
 
 # 💻 Mentoring
 
