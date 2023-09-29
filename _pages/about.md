@@ -120,5 +120,17 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 - *2021.09 - 2022.05*, Hao Dong, Research Assistant, at PolyU, Mentoring.
 
 # 📝 Publications
-
-1.	**Jian Tang**, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (IF:3.576；JCR分区:Q1) [[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/S-Kee/S-Kee.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+## Publication Index: 1 Monograph, 1 Patent, 46 Journal and 33 Conference papers. Google Citation: 3470, h-index: 26
+<!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
+- Book
+  [B1]W. Xu, X. Shen, H. Zhou, “Internet Access in Vehicular Networks”, Springer, Dec, 2021
+- Patent
+  [P1]   X. Shen,W. Xu, H. Zhou, “System and Method for Automotive Wi-Fi Access and Connection”Authorized in US and China, Application number:  PCT/CA2017/051292 (US) CN110024476A (CHN)
+- Journal Papers
+  1. L. Wu,  S. Guo,  Z. Hong,  Y. Liu,W. Xu,  Y. Zhan,  ‘Long-term Adaptive VCG Auction Mechanism for SustainableFederated Learning with Periodical Client Shifting’, IEEE Transactions on Mobile Computing, accepted
+  2. J. Shen, N. Cheng, X. Wang, F. Lyu,W. Xu, Z. Liu, K. Aldubaikhy, X. Shen, ‘RingSFL:An Adaptive Split FederatedLearning Towards Taming Client Heterogeneity’, IEEE Transactions on Mobile Computing, accepted
+  3. X. Xie, C. Hua, P. Gu,W. Xu, ‘AirCon:  Over-the-Air Consensus Protocol for Wireless Blockchain Networks’, IEEETransactions on Mobile Computing, July 2023
+- Conference Papers
+  1. W. Xu, H. Wan, N. Cheng, H. Zhou, M. Qin, ‘A Practical Fast Model Inference System Over Tiny Wireless Device’,accepted in 2023 International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)
+  2. J. Zhang, X. Ma, S. Guo,W. Xu, ‘Towards Unbiased Training in Federated Open-world Semi-supervised Learning’,accepted in International Conference on Machine Learning (ICML), 2023
+  3. J. Li, L. Lang, Z. Zhu, H. Wang, R. Li,W. Xu, ‘Decompose, Then Reconstruct:  A Framework of Network Structuresfor Click-Through Rate Prediction’, accepted to ECML/PKDD 2023
