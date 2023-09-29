@@ -120,7 +120,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 - *2021.09 - 2022.05*, Hao Dong, Research Assistant, at PolyU, Mentoring.
 
 # 📝 Publications
-**Publication Index: 1 Monograph, 1 Patent, 46 Journal and 33 Conference papers. Google Citation: 3470, h-index: 26**
+**Publication Index: 1 Monograph, 1 Patent, 46 Journal and 33 Conference papers.**
 <!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
 ## Book
   - **W. Xu**, X. Shen, H. Zhou, “Internet Access in Vehicular Networks”, Springer, Dec, 2021
@@ -242,7 +242,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 
 8. J. Shen, N. Cheng, Z. Yin, Y. FU, S. Guo, **W. Xu**, ‘RingSFL: An Adaptive Federated Learning System for Heteroge- neous Clients’ in IEEE/CIC International Conference on Communications in China (**ICCC**), 2023
 
-9. Z. Lu, J. Bao, X. Xie, **W. Xu**, C. Hua, ‘Non-Inducible RF Fingerprint Hiding via Feature Perturbation’, acceted in IEEE **ICC**, 2023
+9. Z. Lu, J. Bao, X. Xie, **W. Xu**, C. Hua, ‘Non-Inducible RF Fingerprint Hiding via Feature Perturbation’, acceted in **IEEE ICC**, 2023
 
 10. H. Wang, **W. Xu**, Y. Fan, R. Li, P. Zhou, ‘AOCC-FL: Federated Learning with Aligned Overlapping via Calibrated Compensation’, accepted in **INFOCOM** 2023
 
