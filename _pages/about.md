@@ -123,10 +123,10 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 **Publication Index: 1 Monograph, 1 Patent, 46 Journal and 33 Conference papers.**
 <!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
 ## Book
-  - **W. Xu**, X. Shen, H. Zhou, "Internet Access in Vehicular Networks", Springer, Dec, 2021
+  - **W. Xu**, X. Shen, H. Zhou, [Internet Access in Vehicular Networks](https://link.springer.com/content/pdf/10.1007/978-3-030-88991-3.pdf), Springer, Dec, 2021
 
 ## Patent
-  - X. Shen,**W. Xu**, H. Zhou, "System and Method for Automotive Wi-Fi Access and Connection", Authorized in US and China, Application number:  PCT/CA2017/051292 (US) CN110024476A (CHN)
+  - X. Shen,**W. Xu**, H. Zhou, [System and Method for Automotive Wi-Fi Access and Connection](https://patents.google.com/patent/US11026072B2/en), Authorized in US and China, Application number:  PCT/CA2017/051292 (US) CN110024476A (CHN)
 
 ## Journal Papers
 
