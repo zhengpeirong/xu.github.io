@@ -226,6 +226,8 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 
 ## Conference Papers
 
+1. X. Ma, J. Zhang, S. Guo, **W. Xu**, `SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models', NeurIPS 2023, accepted
+   
 1. **W. Xu**, H. Wan, N. Cheng, H. Zhou, M. Qin, [A Practical Fast Model Inference System Over Tiny Wireless Device](https://dl.acm.org/doi/abs/10.1145/1023720.1023728), accepted in **2023** International Symposium on Personal, Indoor and Mobile Radio Communications (**PIMRC**)
 
 2. J. Zhang, X. Ma, S. Guo, **W. Xu**, [Towards Unbiased Training in Federated Open-world Semi-supervised Learning](https://arxiv.org/abs/2305.00771), accepted in International Conference on Machine Learning (**ICML**), **2023**
