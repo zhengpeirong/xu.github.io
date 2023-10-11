@@ -1,7 +1,7 @@
 # main links links
 main:
-  # - title: "About Me"
-  #   url: "/#about-me"
+  - title: "About Me"
+    url: "/#about-me"
 
   - title: "News"
     url: "/#-news"
@@ -18,5 +18,5 @@ main:
   - title: "Mentoring"
     url: "/#-mentoring"
 
-  - title: "Full Publications"
-    url: "/#-full publications"
+  - title: "Publications"
+    url: "/#-publications"
