@@ -119,7 +119,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 - *2021.09 - 2022.09*, Haodong Wan, Research Assistant, at PolyU, Mentoring.
 - *2021.09 - 2022.05*, Hao Dong, Research Assistant, at PolyU, Mentoring.
 
-# 📝 Full Publications List
+# 📝 Full Publications
 **Publication Index: 1 Monograph, 1 Patent, 46 [Journal](#journal-papers) and 34 [Conference](#conference-papers) papers.**
 <!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
 ## Book
