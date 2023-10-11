@@ -119,9 +119,9 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 - *2021.09 - 2022.09*, Haodong Wan, Research Assistant, at PolyU, Mentoring.
 - *2021.09 - 2022.05*, Hao Dong, Research Assistant, at PolyU, Mentoring.
 
-# 📝 Full Publications
+# 📝 Publications
 **Publication Index: 1 Monograph, 1 Patent, 46 [Journal](#journal-papers) and 34 [Conference](#conference-papers) papers.**
-
+<!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
 ## Book
   - **W. Xu**, X. Shen, H. Zhou, [Internet Access in Vehicular Networks](https://link.springer.com/content/pdf/10.1007/978-3-030-88991-3.pdf), Springer, Dec, 2021
 
