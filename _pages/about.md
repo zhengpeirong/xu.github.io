@@ -45,15 +45,14 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
         width: 250px;
         height: 150px;
     }
-    .badge {
+    /* .badge {
       display: none;
       position: absolute;
-      top: -40px; /* 调整这个值来控制 badge 与图片的间距 */
+      top: -40px; 
       left: 50%;
       transform: translateX(-50%);
-      /* background-color: white; */
       padding: 5px 10px;
-    }
+    } */
     .original-size {
       width: auto;
       height: auto;
@@ -62,9 +61,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     /* .paper-box-image {
       position: relative;
     } */
-</style>
-
-<style>
+    
   .badge-container {
     display: flex;
   }
@@ -89,9 +86,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 <div class="badge-container"><div class="badge"><a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank">Trans MobiComp'23</a></div><div class="pub-info">
 
 [Fast Packet Loss Inferring via Personalized Simulation-Reality Distillation](https://ieeexplore.ieee.org/abstract/document/10138917?casa_token=y8s7T1JqJmgAAAAA:A00d3DOaD0es1lS3I4uXfukHT1IInBTFOSVzNo4T898_E9L9oSlsJZsgUNYZd6cDFHNuAvHHIA), **W. Xu**, H. Wan, H. Wang, N. Cheng, Q. Chen, H. Zhou, S. Guo
-
 </div>
-
 </div>
 
 <!--  style='width: 500px; height: 300px;' -->
