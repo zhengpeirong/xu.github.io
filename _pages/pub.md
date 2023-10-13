@@ -172,3 +172,5 @@
 32. **W. Xu**, C. Hua, A. Huang, [A game theoretical approach for load balancing user association in 802.11 wireless networks](https://ieeexplore.ieee.org/abstract/document/5683224/), in **Proc. Globecom 2010**, pp.1–5
 
 33. X. Ding, C. Hua, **W. Xu**, A. Huang, [A measurement study of channel dynamics in wireless mesh networks](https://ieeexplore.ieee.org/abstract/document/5371547/), in **Proc. WCSP 2009**
+
+':include'
