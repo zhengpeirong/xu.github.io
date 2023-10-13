@@ -173,4 +173,3 @@
 
 33. X. Ding, C. Hua, **W. Xu**, A. Huang, [A measurement study of channel dynamics in wireless mesh networks](https://ieeexplore.ieee.org/abstract/document/5371547/), in **Proc. WCSP 2009**
 
-':include'
