@@ -85,12 +85,20 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   .paper-box-text{
     margin-left: 20px;/* 左边栏和右边栏之间的间距 */
   }
+  .custom-link {
+    color: white;
+    text-decoration: none;
+  }
+  .custom-link:hover {
+      color: white;
+  }
+
 </style>
 
 
 <div class="badge-container">
   <div class="badge_alone">
-    <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank">TMC'23</a>
+    <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">TMC'23</a>
   </div>
   <div class='paper-box-text' markdown="1">
 
