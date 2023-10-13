@@ -105,9 +105,9 @@
 
 ## Conference Papers
 
-1. X. Ma, J. Zhang, S. Guo, **W. Xu**, `SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models', NeurIPS 2023, accepted
+1. X. Ma, J. Zhang, S. Guo, **W. Xu**, `SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models', **NeurIPS** 2023, accepted
    
-1. **W. Xu**, H. Wan, N. Cheng, H. Zhou, M. Qin, [A Practical Fast Model Inference System Over Tiny Wireless Device](https://dl.acm.org/doi/abs/10.1145/1023720.1023728), accepted in **2023** International Symposium on Personal, Indoor and Mobile Radio Communications (**PIMRC**)
+1. **W. Xu**, H. Wan, N. Cheng, H. Zhou, M. Qin, [A Practical Fast Model Inference System Over Tiny Wireless Device](https://dl.acm.org/doi/abs/10.1145/1023720.1023728), accepted in **2023* International Symposium on Personal, Indoor and Mobile Radio Communications (**PIMRC**)
 
 2. J. Zhang, X. Ma, S. Guo, **W. Xu**, [Towards Unbiased Training in Federated Open-world Semi-supervised Learning](https://arxiv.org/abs/2305.00771), accepted in International Conference on Machine Learning (**ICML**), **2023**
 
@@ -133,7 +133,7 @@
 
 13. Z. Ren, N. Cheng, R. Sun, X. Wang, N. Lu, **W. Xu**, [SigT: An Efficient End-To-End MIMO-OFDM Receiver Framework Based on Transformer](https://ieeexplore.ieee.org/abstract/document/10019001/), accepted in **Proc. IEEE ICCSPA"22**
 
-14. Y. Zhu, C. Hua, D. Zhong, **W. Xu**, [Design of Low-latency Overlay Protocol for Blockchain Delivery Networks](https://ieeexplore.ieee.org/abstract/document/9771715/), In 2022 **IEEE Wireless Communications** and Networking Conference (**WCNC**), pp. 1182-1187, **2022**.
+14. Y. Zhu, C. Hua, D. Zhong, **W. Xu**, [Design of Low-latency Overlay Protocol for Blockchain Delivery Networks](https://ieeexplore.ieee.org/abstract/document/9771715/), In 2022 IEEE Wireless Communications and Networking Conference (**WCNC**), pp. 1182-1187, **2022**.
 
 15. X. Ma, J. Zhang, S. Guo, **W. Xu**, [Layer-wised Model Aggregation for Personalized Federated Learning](http://openaccess.thecvf.com/content/CVPR2022/html/Ma_Layer-Wised_Model_Aggregation_for_Personalized_Federated_Learning_CVPR_2022_paper.html), In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 10092-10101, **2022**.
 
