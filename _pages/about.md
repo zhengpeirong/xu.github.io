@@ -81,6 +81,9 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   .pub-info {
     margin-left: 20px;/* 左边栏和右边栏之间的间距 */
   }
+  .paper-box-text{
+    margin-left: 20px;/* 左边栏和右边栏之间的间距 */
+  }
 </style>
 
 
