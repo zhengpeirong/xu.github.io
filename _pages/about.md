@@ -72,9 +72,9 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     padding: 0.3em 0.6em;
     font-size: 1em;
     font-weight: bold;
-    color: #fff;
-    /* background-color: #007bff; */
-    background-color: auto;
+    color: white;
+    background-color: #007bff;
+    /* background-color: auto; */
     border-radius: 0.25em;
     text-decoration: none;
     text-align: center;
