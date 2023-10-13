@@ -96,8 +96,8 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 </div>
 </div>
 
-Full publications can refer to
-# Full Publications
+Full publications can refer to [<a href="./_pages/pub.md" >here</a>] 
+
 
 
 # 🎖 Honors and Awards
