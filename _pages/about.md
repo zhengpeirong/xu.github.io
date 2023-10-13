@@ -97,7 +97,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 </div>
 
 **Full publications** can refer to [here]("huasion23.github.io/_pages/pub.md")
-[<a href="./_pages/pub.md" target="_blank">CV</a>].
+[<a href="huasion23.github.io/_pages/pub.md" target="_blank">CV</a>].
 
 # 🎖 Honors and Awards
 
