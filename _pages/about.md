@@ -64,6 +64,35 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     } */
 </style>
 
+<style>
+  .badge-container {
+    display: flex;
+  }
+  .badge {
+    width: 150px;
+    padding: 0.3em 0.6em;
+    font-size: 1em;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 0.25em;
+    text-decoration: none;
+    text-align: center;
+  }
+  .pub-info {
+    flex-grow: 1;
+    margin-left: 20px;
+  }
+</style>
+
+
+<div class="badge-container"><div class="badge"><a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank">Trans MobiComp'23</a></div><div class="pub-info">
+
+[Fast Packet Loss Inferring via Personalized Simulation-Reality Distillation](https://ieeexplore.ieee.org/abstract/document/10138917?casa_token=y8s7T1JqJmgAAAAA:A00d3DOaD0es1lS3I4uXfukHT1IInBTFOSVzNo4T898_E9L9oSlsJZsgUNYZd6cDFHNuAvHHIA), **W. Xu**, H. Wan, H. Wang, N. Cheng, Q. Chen, H. Zhou, S. Guo
+
+</div>
+
+</div>
 
 <!--  style='width: 500px; height: 300px;' -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T MOBILE COMPUT 2023</div><img src='../images/TMC23-1.png'></div></div><div class='paper-box-text' markdown="1">
