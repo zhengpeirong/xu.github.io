@@ -90,7 +90,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 
 <div class="badge-container">
   <div class="badge_alone">
-    <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank">MobiComp'23</a>
+    <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank">TMC'23</a>
   </div>
   <div class='paper-box-text' markdown="1">
 
