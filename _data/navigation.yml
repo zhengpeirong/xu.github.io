@@ -18,5 +18,5 @@ main:
   - title: "Mentoring"
     url: "/#-mentoring"
 
-  # - title: "Full Publications"
-  #   url: "/_pages/pub/#-full-publications"
+  - title: "Full Publications"
+    url: "/_pages/pub/#-full-publications"
