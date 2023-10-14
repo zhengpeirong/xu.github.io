@@ -21,23 +21,23 @@
 //     });
 // }
 
-
 var toggleButtons = document.getElementsByClassName('toggleButton');
 var allAbstracts = document.getElementsByClassName('abstractContent');
 
-for (var i = 0; i < toggleButtons.length; i++) {
-    toggleButtons[i].addEventListener('click', function(event) {
-        var content = event.target.nextElementSibling;
-        for (var j = 0; j < allAbstracts.length; j++) {
-            if (allAbstracts[j] !== content) {
-                allAbstracts[j].classList.add('hidden');
-            }
+function toggleAbstract(event) {
+    for (var j = 0; j < allAbstracts.length; j++) {
+        if (allAbstracts[j] !== event.target.nextElementSibling) {
+            allAbstracts[j].classList.add('hidden');
         }
-        content.classList.toggle('hidden');
-        // 阻止事件冒泡
-        event.stopPropagation();
-});
+    }
+    var content = event.target.nextElementSibling;
+    content.classList.toggle('hidden');
 }
+
+for (var i = 0; i < toggleButtons.length; i++) {
+    toggleButtons[i].addEventListener('click', toggleAbstract);
+}
+
 
 
 
