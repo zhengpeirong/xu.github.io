@@ -95,9 +95,10 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     padding: 10px; /* 可以根据需要调整内边距 */
     margin-top: 10px; /* 可以根据需要调整上边距 */
     width: auto; /* 设置固定宽度，可以根据需要调整 */
+    display: inline-block;/* 或者 inline, block, inline-block, 等等 */
   }
   .toggleButton {
-    display: inline-block;/* 或者 inline, block, inline-block, 等等 */
+    display: inline;/* 或者 inline, block, inline-block, 等等 */
     margin-left: 20px;/* 左边栏和右边栏之间的间距 */
   }
   /* 分为两列 */
