@@ -119,11 +119,9 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   <div class='paper-box-text' markdown="1">
 
 [Fast Packet Loss Inferring via Personalized Simulation-Reality Distillation](https://ieeexplore.ieee.org/abstract/document/10138917?casa_token=y8s7T1JqJmgAAAAA:A00d3DOaD0es1lS3I4uXfukHT1IInBTFOSVzNo4T898_E9L9oSlsJZsgUNYZd6cDFHNuAvHHIA), **W. Xu**, H. Wan, H. Wang, N. Cheng, Q. Chen, H. Zhou, S. Guo, **IEEE Transactions on Mobile Computing** 2023
-
+</div>
 <button class="toggleButton">Abstract</button><div class="abstractContent hidden">This is the abstract content.</div>
 <script src="./assets/js/toggle.js"></script>
-
-</div>
 </div>
 
 <div class="badge-container">
@@ -131,13 +129,10 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">TMC'23</a>
   </div>
   <div class='paper-box-text' markdown="1">
-
 [Mobile Collaborative Learning over Opportunistic Internet of Vehicles](https://ieeexplore.ieee.org/document/10119206), **W. Xu**, , H. Wang, Z. Lu, C. Hua, N. Cheng, S. Guo, **IEEE Transactions on Mobile Computing** 2023
-
+</div>
 <button class="toggleButton">Abstract</button><div class="abstractContent hidden">This is the abstract content.</div>
 <script src="./assets/js/toggle.js"></script>
-
-</div>
 </div>
 
 <!--  style='width: 500px; height: 300px;' -->
