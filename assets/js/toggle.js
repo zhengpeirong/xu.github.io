@@ -1,5 +1,5 @@
-var toggleButtons = document.getElementsByClassName('toggleButton');
-var allAbstracts = document.getElementsByClassName('abstractContent');
+// var toggleButtons = document.getElementsByClassName('toggleButton');
+// var allAbstracts = document.getElementsByClassName('abstractContent');
 
 // for (var i = 0; i < toggleButtons.length; i++) {
 //     toggleButtons[i].addEventListener('click', function() {
@@ -26,20 +26,22 @@ var toggleButtons = document.getElementsByClassName('toggleButton');
 var allAbstracts = document.getElementsByClassName('abstractContent');
 
 for (var i = 0; i < toggleButtons.length; i++) {
-    toggleButtons[i].setAttribute('data-index', i); // 设置自定义属性 data-index
+    toggleButtons[i].setAttribute('clicked', false); // 设置自定义属性 not clicked
     toggleButtons[i].addEventListener('click', function(event) {
-        var index = event.target.getAttribute('data-index'); // 获取自定义属性值
         for (var j = 0; j < allAbstracts.length; j++) {
-            if (j != index) { // 使用自定义属性值来判断
+            if (allAbstracts[j] !== event.target.nextElementSibling) {
                 allAbstracts[j].classList.add('hidden');
             }
         }
-        var content = event.target.nextElementSibling;
-        content.classList.toggle('hidden');
-    });
+        // 点击一次只应该响应一次
+        if (!event.target.getAttribute('clicked')){
+            var content = event.target.nextElementSibling;
+            content.classList.toggle('hidden');
+            toggleButtons[i].setAttribute('clicked', true); // 设置自定义属性 clicked
+        }
+});
 }
 
-// 在这个修改后的代码中，我将事件监听器函数包装在一个 IIFE (立即调用的函数表达式）中，并传入了当前的 i 值。这为每次迭代创建了一个新的作用域，i 的值能够被正确地捕获到每个事件监听器中。
 
 
 
