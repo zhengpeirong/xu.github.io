@@ -135,10 +135,11 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">JAS'17</a>
   </div>
 <div class="content-wrapper"> <!-- 新增的包裹层 -->
-  <div class='paper-box-text' markdown="1">[Internet of vehicles in big data era](https://ieeexplore.ieee.org/abstract/document/8232587), **W. Xu**, H. Zhou, N. Cheng, F. Lyu, W. Shi, J. Chen, X. Shen **IEEE/CAA Journal of Automatica Sinica (Highly cited paper)** 2017</div>
-<button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 3.</div>
+  <div class='paper-box-text' markdown="1">[Internet of vehicles in big data era](https://ieeexplore.ieee.org/abstract/document/8232587), **W. Xu**, H. Zhou, N. Cheng, F. Lyu, W. Shi, J. Chen, X. Shen **IEEE/CAA Journal of Automatica Sinica (Highly cited paper)** 2017
   </div>
+<button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 3.</div>
 <script src="./assets/js/toggle.js"></script>
+</div>
 </div>
 
 <div class="badge-container">
