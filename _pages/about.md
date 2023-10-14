@@ -41,6 +41,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 
 # 📝 Selected Publications
 <style>
+  /* 图片徽标 */
   img {
       width: 250px;
       height: 150px;
@@ -57,7 +58,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     width: auto;
     height: auto;
   }
-
+  /* 文字徽标 */
   .badge-container {
     display: flex;
     align-items: center; /* 垂直居中 */
@@ -116,7 +117,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   <div class='paper-box-text' markdown="1">
 [Fast Packet Loss Inferring via Personalized Simulation-Reality Distillation](https://ieeexplore.ieee.org/abstract/document/10138917?casa_token=y8s7T1JqJmgAAAAA:A00d3DOaD0es1lS3I4uXfukHT1IInBTFOSVzNo4T898_E9L9oSlsJZsgUNYZd6cDFHNuAvHHIA), **W. Xu**, H. Wan, H. Wang, N. Cheng, Q. Chen, H. Zhou, S. Guo, **IEEE Transactions on Mobile Computing** 2023
 </div>
-<button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 1.</div>
+<button class="toggleButton">Abstract</button><div class="abstractContent hidden">Packet loss inferring can enable a transceiver to distinguish between channel impairment and collision for transmission failures, and thus can improve the network performance by exclusively performing rate adaptation or adjusting the medium access parameter. Machine learning methods from literature have shown great potential in producing models that can detect the loss causes over various network trace, however haven't considered accurate data-driven loss inferring on resource-constrained devices that cannot accommodate deep models. In this paper, we propose a novel packet loss inferring framework that can train lightweight models to distinguish between channel losses and collisions by learning the data trace from both simulation and real devices. Specifically, we first train a sophisticated teacher model based on extensive simulation datasets, whose knowledge is then transferred to a small student model that can be deployed on tiny device. The simulation-reality distillation is conducted via personalized trace from each client correspondingly, whose performance bound is analytically guaranteed. We have implemented our method on real testbed and show that the network access performance can be significantly improved, especially for sudden network variations.</div>
 <script src="./assets/js/toggle.js"></script>
 </div>
 
@@ -160,7 +161,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   <div class='paper-box-text' markdown="1">
 [DaFKD: Domain-aware Federated Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.html), H. Wang, Y. Li, **W. Xu**, R. Li, Y. Zhan, Z. Zeng, **CVPR** 2023
 </div>
-<button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 4.</div>
+<button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 5.</div>
 <script src="./assets/js/toggle.js"></script>
 </div>
 
@@ -196,7 +197,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 </div>
 </div> -->
 
-Full publications can refer to [here](./pub.md).
+**Full publications can refer to [*here*](./pub.md).**
 
 # 🎖 Honors and Awards
 
