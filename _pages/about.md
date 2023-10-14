@@ -92,6 +92,21 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   .custom-link:hover {
       color: white;
   }
+    /* 以下是用于显示Abstract的内容 */
+  .hidden {
+    display: none;
+  }
+
+  .abstractContent {
+    border: 1px dashed #000; /* 设置虚线边框，#000 是黑色 */
+    padding: 10px; /* 可以根据需要调整内边距 */
+    margin-top: 10px; /* 可以根据需要调整上边距 */
+    width: auto; /* 设置固定宽度，可以根据需要调整 */
+  }
+
+  .toggleButton {
+    display: block; /* 或者 inline, inline-block, 等等 */
+  }
 
 </style>
 
