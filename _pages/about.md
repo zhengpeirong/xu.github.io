@@ -119,6 +119,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   <div class='paper-box-text' markdown="1">
 [Fast Packet Loss Inferring via Personalized Simulation-Reality Distillation](https://ieeexplore.ieee.org/abstract/document/10138917?casa_token=y8s7T1JqJmgAAAAA:A00d3DOaD0es1lS3I4uXfukHT1IInBTFOSVzNo4T898_E9L9oSlsJZsgUNYZd6cDFHNuAvHHIA), **W. Xu**, H. Wan, H. Wang, N. Cheng, Q. Chen, H. Zhou, S. Guo, **IEEE Transactions on Mobile Computing** 2023
 </div>
+<br>
 <button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 1.</div>
 <script src="./assets/js/toggle.js"></script>
 </div>
@@ -130,17 +131,19 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   <div class='paper-box-text' markdown="1">
 [Mobile Collaborative Learning over Opportunistic Internet of Vehicles](https://ieeexplore.ieee.org/document/10119206), **W. Xu**, H. Wang, Z. Lu, C. Hua, N. Cheng, S. Guo, **IEEE Transactions on Mobile Computing** 2023
 </div>
+<br>
 <button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 2.</div>
 <script src="./assets/js/toggle.js"></script>
 </div>
 
 <div class="badge-container">
   <div class="badge_alone">
-    <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">IEEE-CAA J AUTOMATIC 2017</a>
+    <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">JAS'17</a>
   </div>
   <div class='paper-box-text' markdown="1">
 [Internet of vehicles in big data era](https://ieeexplore.ieee.org/abstract/document/8232587), **W. Xu**, H. Zhou, N. Cheng, F. Lyu, W. Shi, J. Chen, X. Shen **IEEE/CAA Journal of Automatica Sinica (Highly cited paper)** 2017
 </div>
+<br>
 <button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 3.</div>
 <script src="./assets/js/toggle.js"></script>
 </div>
@@ -152,6 +155,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   <div class='paper-box-text' markdown="1">
 [PMR: Prototypical Modal Rebalance for Multimodal Learning](https://openaccess.thecvf.com/content/CVPR2023/html/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.html), Y. Fan, **W. Xu** H. Wang, J. Wang, S. Guo, **CVPR** 2023
 </div>
+<br>
 <button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 4.</div>
 <script src="./assets/js/toggle.js"></script>
 </div>
