@@ -411,6 +411,7 @@
   text-transform: uppercase;
 }
 
+// 以下是用于显示Abstract的内容
 .hidden {
   display: none;
 }
@@ -420,4 +421,8 @@
   padding: 10px; /* 可以根据需要调整内边距 */
   margin-top: 10px; /* 可以根据需要调整上边距 */
   width: auto; /* 设置固定宽度，可以根据需要调整 */
+}
+
+.toggleButton {
+  display: block; /* 或者 inline, inline-block, 等等 */
 }

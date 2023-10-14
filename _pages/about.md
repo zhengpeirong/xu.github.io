@@ -104,10 +104,10 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 
 [Fast Packet Loss Inferring via Personalized Simulation-Reality Distillation](https://ieeexplore.ieee.org/abstract/document/10138917?casa_token=y8s7T1JqJmgAAAAA:A00d3DOaD0es1lS3I4uXfukHT1IInBTFOSVzNo4T898_E9L9oSlsJZsgUNYZd6cDFHNuAvHHIA), **W. Xu**, H. Wan, H. Wang, N. Cheng, Q. Chen, H. Zhou, S. Guo, **IEEE Transactions on Mobile Computing** 2023
 
-<button id="abstractButton">Abstract</button>
+<button class="toggleButton">Abstract</button>
 <div class="abstractContent hidden">
 This is the abstract content.
-<script src="assets\js\custom.js"></script>
+<script src="toggle.js"></script>
 </div>
 
 </div>
