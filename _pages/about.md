@@ -132,7 +132,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   <div class='paper-box-text' markdown="1">
 [Mobile Collaborative Learning over Opportunistic Internet of Vehicles](https://ieeexplore.ieee.org/document/10119206), **W. Xu**, H. Wang, Z. Lu, C. Hua, N. Cheng, S. Guo, **IEEE Transactions on Mobile Computing** 2023
 </div>
-<button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 2.</div>
+<button class="paper-box-text toggleButton">Abstract</button><div class="abstractContent hidden">abstract 2.</div>
 <script src="./assets/js/toggle.js"></script>
 </div>
 
