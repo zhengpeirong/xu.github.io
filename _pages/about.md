@@ -152,7 +152,8 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">CVPR'23</a>
   </div>
 <div class="content-wrapper"> <!-- 新增的包裹层 -->
-  <div class='paper-box-text' markdown="1">[PMR: Prototypical Modal Rebalance for Multimodal Learning](https://openaccess.thecvf.com/content/CVPR2023/html/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.html), Y. Fan, **W. Xu** H. Wang, J. Wang, S. Guo, **CVPR** 2023</div>
+  <div class='paper-box-text' markdown="1">[PMR: Prototypical Modal Rebalance for Multimodal Learning](https://openaccess.thecvf.com/content/CVPR2023/html/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.html), Y. Fan, **W. Xu** H. Wang, J. Wang, S. Guo, **CVPR** 2023
+  </div>
 <button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 4.</div>
 <script src="./assets/js/toggle.js"></script>
 </div>
@@ -164,7 +165,8 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">CVPR'23</a>
   </div>
 <div class="content-wrapper"> <!-- 新增的包裹层 -->
-  <div class='paper-box-text' markdown="1">[DaFKD: Domain-aware Federated Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.html), H. Wang, Y. Li, **W. Xu**, R. Li, Y. Zhan, Z. Zeng, **CVPR** 2023</div>
+  <div class='paper-box-text' markdown="1">[DaFKD: Domain-aware Federated Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.html), H. Wang, Y. Li, **W. Xu**, R. Li, Y. Zhan, Z. Zeng, **CVPR** 2023
+  </div>
 <button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 5.</div>
 <script src="./assets/js/toggle.js"></script>
 </div>
