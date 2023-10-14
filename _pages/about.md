@@ -63,7 +63,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     } */
 
   .badge-container {
-    display: flex;
+    /* display: flex; */
     align-items: center; /* 垂直居中 */
   }
   .badge_alone {
@@ -94,7 +94,6 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   }
     /* 以下是用于显示Abstract的内容 */
   .hidden {
-    /* display: flex; */
     display: none;
   }
 
@@ -109,6 +108,10 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     display: block; /* 或者 inline, inline-block, 等等 */
   }
 
+  .text-container {
+    display: flex;
+    align-items: center; /* 垂直居中 */
+  }
 </style>
 
 
@@ -116,12 +119,14 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   <div class="badge_alone">
     <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">TMC'23</a>
   </div>
+  <div class="text-container">
   <div class='paper-box-text' markdown="1">
 [Fast Packet Loss Inferring via Personalized Simulation-Reality Distillation](https://ieeexplore.ieee.org/abstract/document/10138917?casa_token=y8s7T1JqJmgAAAAA:A00d3DOaD0es1lS3I4uXfukHT1IInBTFOSVzNo4T898_E9L9oSlsJZsgUNYZd6cDFHNuAvHHIA), **W. Xu**, H. Wan, H. Wang, N. Cheng, Q. Chen, H. Zhou, S. Guo, **IEEE Transactions on Mobile Computing** 2023
 </div>
 <br>
 <button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 1.</div>
 <script src="./assets/js/toggle.js"></script>
+</div>
 </div>
 
 <div class="badge-container">
