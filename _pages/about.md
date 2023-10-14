@@ -97,7 +97,8 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     width: auto; /* 设置固定宽度，可以根据需要调整 */
   }
   .toggleButton {
-    display: block; /* 或者 inline, inline-block, 等等 */
+    display: inline-block;/* 或者 inline, block, inline-block, 等等 */
+    margin-left: 20px;/* 左边栏和右边栏之间的间距 */
   }
   /* 分为两列 */
   .content-wrapper {
