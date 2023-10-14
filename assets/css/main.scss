@@ -107,3 +107,10 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+#abstractContent {
+    border: 1px dashed #000; /* 设置虚线边框，#000 是黑色 */
+    padding: 10px; /* 可以根据需要调整内边距 */
+    margin-top: 10px; /* 可以根据需要调整上边距 */
+    width: auto; /* 设置固定宽度，可以根据需要调整 */
+}

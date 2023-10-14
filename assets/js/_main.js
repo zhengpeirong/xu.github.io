@@ -96,3 +96,8 @@ $(document).ready(function(){
   });
 
 });
+
+document.getElementById('abstractButton').addEventListener('click', function() {
+  var abstractContent = document.getElementById('abstractContent');
+  abstractContent.classList.toggle('hidden');
+});
