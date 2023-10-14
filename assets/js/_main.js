@@ -95,12 +95,5 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
-  // 点击显示Abstract
-  document.addEventListener('DOMContentLoaded', function() {
-    document.getElementById('abstractButton').addEventListener('click', function() {
-        var abstractContent = document.getElementById('abstractContent');
-        abstractContent.classList.toggle('hidden');
-    });
-  });
 });
 

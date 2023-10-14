@@ -13,4 +13,11 @@ $(".header").click(function () {
         });
     });
 
+  // 点击显示Abstract
+  document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('abstractButton').addEventListener('click', function() {
+        var abstractContent = document.getElementById('abstractContent');
+        abstractContent.classList.toggle('hidden');
+    });
+  });
 });
