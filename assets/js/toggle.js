@@ -26,19 +26,14 @@ var toggleButtons = document.getElementsByClassName('toggleButton');
 var allAbstracts = document.getElementsByClassName('abstractContent');
 
 for (var i = 0; i < toggleButtons.length; i++) {
-    toggleButtons[i].setAttribute('clicked', false); // 设置自定义属性 not clicked
     toggleButtons[i].addEventListener('click', function(event) {
+        var content = event.target.nextElementSibling;
         for (var j = 0; j < allAbstracts.length; j++) {
-            if (allAbstracts[j] !== event.target.nextElementSibling) {
+            if (allAbstracts[j] !== content) {
                 allAbstracts[j].classList.add('hidden');
             }
         }
-        // 点击一次只应该响应一次
-        if (!event.target.getAttribute('clicked')){
-            var content = event.target.nextElementSibling;
-            content.classList.toggle('hidden');
-            toggleButtons[i].setAttribute('clicked', true); // 设置自定义属性 clicked
-        }
+        content.classList.toggle('hidden');
 });
 }
 
