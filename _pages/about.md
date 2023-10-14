@@ -135,6 +135,17 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 <script src="./assets/js/toggle.js"></script>
 </div>
 
+<div class="badge-container">
+  <div class="badge_alone">
+    <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">IEEE-CAA J AUTOMATIC 2017</a>
+  </div>
+  <div class='paper-box-text' markdown="1">
+[Internet of vehicles in big data era](https://ieeexplore.ieee.org/abstract/document/8232587), **W. Xu**, H. Zhou, N. Cheng, F. Lyu, W. Shi, J. Chen, X. Shen **IEEE/CAA Journal of Automatica Sinica (Highly cited paper)** 2017
+</div>
+<button class="toggleButton">Abstract</button><div class="abstractContent hidden">This is the abstract content.</div>
+<script src="./assets/js/toggle.js"></script>
+</div>
+
 <!--  style='width: 500px; height: 300px;' -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T MOBILE COMPUT 2023</div><img src='../images/TMC23-1.png'></div></div><div class='paper-box-text' markdown="1">
 
