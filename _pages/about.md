@@ -94,8 +94,6 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     display: none;
   }
   .abstractContent {
-    display: block; /*
-    无论 JavaScript 是否成功加载和执行，.abstractContent 都会默认显示，而不会受到样式或脚本的影响。*/
     border: 1px dashed #000; /* 设置虚线边框，#000 是黑色 */
     padding: 10px; /* 可以根据需要调整内边距 */
     margin-top: 10px; /* 可以根据需要调整上边距 */
@@ -103,6 +101,15 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   }
   .toggleButton {
     display: block; /* 或者 inline, inline-block, 等等 */
+  }
+  /* 分为两列 */
+  .column-1,
+  .column-2 {
+    flex: 1;
+  }
+
+  .column-2 {
+    margin-left: 20px; /* 添加一些间距 */
   }
 </style>
 
@@ -130,14 +137,16 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 </div>
 
 <div class="badge-container">
-  <div class="badge_alone">
+  <div class="badge_alone column-1">
     <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">JAS'17</a>
   </div>
-  <div class='paper-box-text' markdown="1">
+  <div class='column-2'>
+    <div class='paper-box-text' markdown="1">
 [Internet of vehicles in big data era](https://ieeexplore.ieee.org/abstract/document/8232587), **W. Xu**, H. Zhou, N. Cheng, F. Lyu, W. Shi, J. Chen, X. Shen **IEEE/CAA Journal of Automatica Sinica (Highly cited paper)** 2017
+  </div>
+</div>
 <button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 3.</div>
 <script src="./assets/js/toggle.js"></script>
-</div>
 </div>
 
 <div class="badge-container">
