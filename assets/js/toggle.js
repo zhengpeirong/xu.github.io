@@ -10,10 +10,10 @@ for (var i = 0; i < toggleButtons.length; i++) {
         // 显示与当前按钮相关的 Abstract 内容
         var content = event.target.nextElementSibling; // 获取紧随其后的元素（即要展示/隐藏的内容）
         // var content = this.nextElementSibling; // 获取紧随其后的元素（即要展示/隐藏的内容）
-        content.classList.toggle('hidden');
         console.log(event.target); // 输出点击的按钮元素
         console.log(this.target); // 输出点击的按钮元素
         console.log(event.target.nextElementSibling); // 输出点击的按钮元素
         console.log(this.target.nextElementSibling); // 输出点击的按钮元素
+        content.classList.toggle('hidden');
     });
 }
