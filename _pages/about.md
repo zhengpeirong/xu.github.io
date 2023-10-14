@@ -41,29 +41,25 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 
 # 📝 Selected Publications
 <style>
-    img {
-        width: 250px;
-        height: 150px;
-    }
-    .badge {
-      display: none;
-      position: absolute;
-      top: -40px; 
-      left: 50%;
-      transform: translateX(-50%);
-      padding: 5px 10px;
-    }
-    .original-size {
-      width: auto;
-      height: auto;
-    }
-
-    /* .paper-box-image {
-      position: relative;
-    } */
+  img {
+      width: 250px;
+      height: 150px;
+  }
+  .badge {
+    display: none;
+    position: absolute;
+    top: -40px; 
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 5px 10px;
+  }
+  .original-size {
+    width: auto;
+    height: auto;
+  }
 
   .badge-container {
-    /* display: flex; */
+    display: flex;
     align-items: center; /* 垂直居中 */
   }
   .badge_alone {
@@ -90,24 +86,22 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     text-decoration: none;
   }
   .custom-link:hover {
-      color: white;
+    color: white;
   }
     /* 以下是用于显示Abstract的内容 */
   .hidden {
     display: none;
   }
-
   .abstractContent {
     border: 1px dashed #000; /* 设置虚线边框，#000 是黑色 */
     padding: 10px; /* 可以根据需要调整内边距 */
     margin-top: 10px; /* 可以根据需要调整上边距 */
     width: auto; /* 设置固定宽度，可以根据需要调整 */
   }
-
   .toggleButton {
     display: block; /* 或者 inline, inline-block, 等等 */
+    margin-left: 20px;/* 左边栏和右边栏之间的间距 */
   }
-
   .text-container {
     display: flex;
     align-items: center; /* 垂直居中 */
