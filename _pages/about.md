@@ -73,7 +73,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   }
 
   .badge_alone {
-    width: 120px;
+    width: 80px;
     height: auto;
     padding: 0.3em 0.1em;
     font-size: 1em;
@@ -86,8 +86,8 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     text-align: center;
   }
   .paper-box-text{
-    margin-top: 30px; /* 可以根据需要调整上边距 */
     margin-left: 20px;/* 左边栏和右边栏之间的间距 */
+    margin-top: 30px; /* 可以根据需要调整上边距 */
   }
   .custom-link {
     color: white;
