@@ -76,9 +76,6 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     text-decoration: none;
     text-align: center;
   }
-  .pub-info {
-    margin-left: 20px;/* 左边栏和右边栏之间的间距 */
-  }
   .paper-box-text{
     margin-left: 20px;/* 左边栏和右边栏之间的间距 */
   }
@@ -111,6 +108,9 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   .column-2 {
     margin-left: 20px; /* 添加一些间距 */
   }
+  .column-2-content {
+    margin-bottom: 10px; /* 设置两行内容之间的间距 */
+  }
 </style>
 
 
@@ -136,15 +136,13 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 <script src="./assets/js/toggle.js"></script>
 </div>
 
-<div class="badge-container">
-  <div class="badge_alone column-1">
+<div class="badge_alone column-1">
     <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">JAS'17</a>
-  </div>
-  <div class='column-2'>
+</div>
+<div class='column-2'>
     <div class='paper-box-text' markdown="1">
 [Internet of vehicles in big data era](https://ieeexplore.ieee.org/abstract/document/8232587), **W. Xu**, H. Zhou, N. Cheng, F. Lyu, W. Shi, J. Chen, X. Shen **IEEE/CAA Journal of Automatica Sinica (Highly cited paper)** 2017
-  </div>
-</div>
+    </div>
 <button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 3.</div>
 <script src="./assets/js/toggle.js"></script>
 </div>
