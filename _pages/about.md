@@ -77,6 +77,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     text-align: center;
   }
   .paper-box-text{
+    margin-top: 30px; /* 可以根据需要调整上边距 */
     margin-left: 20px;/* 左边栏和右边栏之间的间距 */
   }
   .custom-link {
@@ -100,7 +101,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   .toggleButton {
     display: inline-block;/* 或者 inline, block, inline-block, 等等 */
     margin-left: 20px;/* 左边栏和右边栏之间的间距 */
-    width: 50px; /* 设置固定宽度，可以根据需要调整 */
+    width: 70px; /* 设置固定宽度，可以根据需要调整 */
   }
   /* 分为两列 */
   .content-wrapper {
