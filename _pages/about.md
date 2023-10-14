@@ -94,12 +94,13 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     border: 1px dashed #000; /* 设置虚线边框，#000 是黑色 */
     padding: 10px; /* 可以根据需要调整内边距 */
     margin-top: 10px; /* 可以根据需要调整上边距 */
+    margin-left: 20px;/* 左边栏和右边栏之间的间距 */
     width: auto; /* 设置固定宽度，可以根据需要调整 */
-    display: inline-block;/* 或者 inline, block, inline-block, 等等 */
   }
   .toggleButton {
-    display: inline;/* 或者 inline, block, inline-block, 等等 */
+    display: inline-block;/* 或者 inline, block, inline-block, 等等 */
     margin-left: 20px;/* 左边栏和右边栏之间的间距 */
+    width: auto; /* 设置固定宽度，可以根据需要调整 */
   }
   /* 分为两列 */
   .content-wrapper {
