@@ -94,6 +94,8 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     display: none;
   }
   .abstractContent {
+    display: block; /*
+    无论 JavaScript 是否成功加载和执行，.abstractContent 都会默认显示，而不会受到样式或脚本的影响。*/
     border: 1px dashed #000; /* 设置虚线边框，#000 是黑色 */
     padding: 10px; /* 可以根据需要调整内边距 */
     margin-top: 10px; /* 可以根据需要调整上边距 */
@@ -101,7 +103,6 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   }
   .toggleButton {
     display: block; /* 或者 inline, inline-block, 等等 */
-    margin-left: 20px;/* 左边栏和右边栏之间的间距 */
   }
 </style>
 
