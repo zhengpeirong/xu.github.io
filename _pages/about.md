@@ -66,7 +66,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   .badge_alone {
     width: 120px;
     height: auto;
-    padding: 0.3em 10px;
+    padding: 0.3em 0.1em;
     font-size: 1em;
     font-weight: bold;
     color: white;
