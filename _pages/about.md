@@ -64,7 +64,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     align-items: center; /* 垂直居中 */
   }
   .badge_alone {
-    width: 150px;
+    width: 120px;
     height: auto;
     padding: 0.3em 0.6em;
     font-size: 1em;
@@ -203,6 +203,8 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 [DaFKD: Domain-aware Federated Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.html), H. Wang, Y. Li, **W. Xu**, R. Li, Y. Zhan, Z. Zeng, **CVPR** 2023
 </div>
 </div> -->
+
+<br>
 
 **Full publications can refer to [*here*](./pub.md).**
 

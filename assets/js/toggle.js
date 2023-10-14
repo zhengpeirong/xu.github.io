@@ -13,6 +13,8 @@ for (var i = 0; i < toggleButtons.length; i++) {
         var content = event.target.nextElementSibling; // 获取紧随其后的元素（即要展示/隐藏的内容）
         // console.log(event.target); // 输出点击的按钮元素
         // console.log(event.target.nextElementSibling); // 输出点击的按钮元素
-        content.classList.toggle('hidden');
+        // content.classList.toggle('hidden');
+        // 不管点击到谁，都会有反应，但是只改变点击到的那个，也就是i
+        allAbstracts[i].classList.toggle('hidden');
     });
 }
