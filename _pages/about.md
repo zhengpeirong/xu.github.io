@@ -100,7 +100,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   .toggleButton {
     display: inline-block;/* 或者 inline, block, inline-block, 等等 */
     margin-left: 20px;/* 左边栏和右边栏之间的间距 */
-    width: auto; /* 设置固定宽度，可以根据需要调整 */
+    width: 50px; /* 设置固定宽度，可以根据需要调整 */
   }
   /* 分为两列 */
   .content-wrapper {
