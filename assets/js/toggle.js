@@ -34,6 +34,8 @@ for (var i = 0; i < toggleButtons.length; i++) {
             }
         }
         content.classList.toggle('hidden');
+        // 阻止事件冒泡
+        event.stopPropagation();
 });
 }
 
