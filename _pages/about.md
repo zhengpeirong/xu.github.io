@@ -129,7 +129,18 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">TMC'23</a>
   </div>
   <div class='paper-box-text' markdown="1">
-[Mobile Collaborative Learning over Opportunistic Internet of Vehicles](https://ieeexplore.ieee.org/document/10119206), **W. Xu**, , H. Wang, Z. Lu, C. Hua, N. Cheng, S. Guo, **IEEE Transactions on Mobile Computing** 2023
+[Mobile Collaborative Learning over Opportunistic Internet of Vehicles](https://ieeexplore.ieee.org/document/10119206), **W. Xu**, H. Wang, Z. Lu, C. Hua, N. Cheng, S. Guo, **IEEE Transactions on Mobile Computing** 2023
+</div>
+<button class="toggleButton">Abstract</button><div class="abstractContent hidden">This is the abstract content.</div>
+<script src="./assets/js/toggle.js"></script>
+</div>
+
+<div class="badge-container">
+  <div class="badge_alone">
+    <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">CVPR'23</a>
+  </div>
+  <div class='paper-box-text' markdown="1">
+[PMR: Prototypical Modal Rebalance for Multimodal Learning](https://openaccess.thecvf.com/content/CVPR2023/html/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.html), Y. Fan, **W. Xu** H. Wang, J. Wang, S. Guo, **CVPR** 2023
 </div>
 <button class="toggleButton">Abstract</button><div class="abstractContent hidden">This is the abstract content.</div>
 <script src="./assets/js/toggle.js"></script>
@@ -146,6 +157,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 <script src="./assets/js/toggle.js"></script>
 </div>
 
+<!-- 以下是原始的左边图片、右边文献的形式 -->
 <!--  style='width: 500px; height: 300px;' -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T MOBILE COMPUT 2023</div><img src='../images/TMC23-1.png'></div></div><div class='paper-box-text' markdown="1">
 
