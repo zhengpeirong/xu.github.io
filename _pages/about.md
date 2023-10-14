@@ -105,7 +105,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   }
   .text-container {
     display: flex;
-    align-items: center; /* 垂直居中 */
+    align-items: left; /* 垂直居中 */
   }
 </style>
 
@@ -114,11 +114,14 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   <div class="badge_alone">
     <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">TMC'23</a>
   </div>
+<div class="text-container">
   <div class='paper-box-text' markdown="1">
 [Fast Packet Loss Inferring via Personalized Simulation-Reality Distillation](https://ieeexplore.ieee.org/abstract/document/10138917?casa_token=y8s7T1JqJmgAAAAA:A00d3DOaD0es1lS3I4uXfukHT1IInBTFOSVzNo4T898_E9L9oSlsJZsgUNYZd6cDFHNuAvHHIA), **W. Xu**, H. Wan, H. Wang, N. Cheng, Q. Chen, H. Zhou, S. Guo, **IEEE Transactions on Mobile Computing** 2023
 </div>
+<br>
 <button class="toggleButton">Abstract</button><div class="abstractContent hidden">Packet loss inferring can enable a transceiver to distinguish between channel impairment and collision for transmission failures, and thus can improve the network performance by exclusively performing rate adaptation or adjusting the medium access parameter. Machine learning methods from literature have shown great potential in producing models that can detect the loss causes over various network trace, however haven't considered accurate data-driven loss inferring on resource-constrained devices that cannot accommodate deep models. In this paper, we propose a novel packet loss inferring framework that can train lightweight models to distinguish between channel losses and collisions by learning the data trace from both simulation and real devices. Specifically, we first train a sophisticated teacher model based on extensive simulation datasets, whose knowledge is then transferred to a small student model that can be deployed on tiny device. The simulation-reality distillation is conducted via personalized trace from each client correspondingly, whose performance bound is analytically guaranteed. We have implemented our method on real testbed and show that the network access performance can be significantly improved, especially for sudden network variations.</div>
 <script src="./assets/js/toggle.js"></script>
+</div>
 </div>
 
 <div class="badge-container">
