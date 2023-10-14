@@ -107,8 +107,8 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 <button class="toggleButton">Abstract</button>
 <div class="abstractContent hidden">
 This is the abstract content.
-<script src="./assets/js/toggle.js"></script>
 </div>
+<script src="./assets/js/toggle.js"></script>
 
 </div>
 </div>
