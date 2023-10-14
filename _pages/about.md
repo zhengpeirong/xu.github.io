@@ -100,17 +100,11 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     display: block; /* 或者 inline, inline-block, 等等 */
   }
   /* 分为两列 */
-  .column-1,
-  .column-2 {
-    flex: 1;
-  }
+  .content-wrapper {
+  display: flex;
+  flex-direction: column;
+}
 
-  .column-2 {
-    margin-left: 20px; /* 添加一些间距 */
-  }
-  .column-2-content {
-    margin-bottom: 10px; /* 设置两行内容之间的间距 */
-  }
 </style>
 
 
@@ -132,7 +126,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   <div class='paper-box-text' markdown="1">
 [Mobile Collaborative Learning over Opportunistic Internet of Vehicles](https://ieeexplore.ieee.org/document/10119206), **W. Xu**, H. Wang, Z. Lu, C. Hua, N. Cheng, S. Guo, **IEEE Transactions on Mobile Computing** 2023
 </div>
-<button class="paper-box-text toggleButton">Abstract</button><div class="abstractContent hidden">abstract 2.</div>
+<button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 2.</div>
 <script src="./assets/js/toggle.js"></script>
 </div>
 
@@ -143,7 +137,9 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
   <div class='paper-box-text' markdown="1">
 [Internet of vehicles in big data era](https://ieeexplore.ieee.org/abstract/document/8232587), **W. Xu**, H. Zhou, N. Cheng, F. Lyu, W. Shi, J. Chen, X. Shen **IEEE/CAA Journal of Automatica Sinica (Highly cited paper)** 2017
 </div>
-<button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 4.</div>
+  <div class="content-wrapper"> <!-- 新增的包裹层 -->
+<button class="toggleButton">Abstract</button><div class="abstractContent hidden">abstract 3.</div>
+  </div>
 <script src="./assets/js/toggle.js"></script>
 </div>
 
