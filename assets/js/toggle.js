@@ -32,6 +32,8 @@ function toggleAbstract(event) {
     }
     var content = event.target.nextElementSibling;
     content.classList.toggle('hidden');
+    return;
+
 }
 
 for (var i = 0; i < toggleButtons.length; i++) {
