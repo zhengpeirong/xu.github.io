@@ -63,6 +63,9 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
     display: flex;
     align-items: center; /* 垂直居中 */
   }
+  .badge-container > * {
+    flex-grow: 1;
+  }
   .badge_alone {
     width: 120px;
     height: auto;
