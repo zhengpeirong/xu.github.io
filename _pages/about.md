@@ -147,7 +147,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 
 <div class="badge-container">
   <div class="badge_alone">
-    <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">JAS'17</a>
+    <a href="https://www.ieee-jas.net/" target="_blank"  class="custom-link">JAS'17</a>
   </div>
 <div class="content-wrapper"> <!-- 新增的包裹层 -->
   <div class='paper-box-text' markdown="1">[Internet of vehicles in big data era](https://ieeexplore.ieee.org/abstract/document/8232587), **W. Xu**, H. Zhou, N. Cheng, F. Lyu, W. Shi, J. Chen, X. Shen **IEEE/CAA Journal of Automatica Sinica (Highly cited paper)** 2017
@@ -159,7 +159,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 
 <div class="badge-container">
   <div class="badge_alone">
-    <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">CVPR'23</a>
+    <a href="https://cvpr2023.thecvf.com/Conferences/2023" target="_blank"  class="custom-link">CVPR'23</a>
   </div>
 <div class="content-wrapper"> <!-- 新增的包裹层 -->
   <div class='paper-box-text' markdown="1">[PMR: Prototypical Modal Rebalance for Multimodal Learning](https://openaccess.thecvf.com/content/CVPR2023/html/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.html), Y. Fan, **W. Xu** H. Wang, J. Wang, S. Guo, **CVPR** 2023
@@ -173,7 +173,7 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 
 <div class="badge-container">
   <div class="badge_alone">
-    <a href="https://sigmobile.org/mobicom/2023/accepted.html" target="_blank"  class="custom-link">CVPR'23</a>
+    <a href="https://cvpr2023.thecvf.com/Conferences/2023" target="_blank"  class="custom-link">CVPR'23</a>
   </div>
 <div class="content-wrapper"> <!-- 新增的包裹层 -->
   <div class='paper-box-text' markdown="1">[DaFKD: Domain-aware Federated Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.html), H. Wang, Y. Li, **W. Xu**, R. Li, Y. Zhan, Z. Zeng, **CVPR** 2023
