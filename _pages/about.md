@@ -39,8 +39,8 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 
 
 
-<!-- Selected Publication在这个文件./includes/selectedPub文件 -->
-<!-- {% include selectedPub.md %} -->
+<!-- Selected Publication在这个文件./includes/selectedPub，md或者html文件 -->
+
 {% include selectedPub.html %}
 
 
