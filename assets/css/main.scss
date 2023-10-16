@@ -339,7 +339,7 @@ $fa-font-path: "../webfonts";
   
         .hidden {
           font-size: 0.4375rem; /* 字体大小设为原来的一半 */
-          max-height: 0;
+          max-height: 0; /*这才是hidden的根本原理*/
           overflow: hidden;
           text-align: justify;
           transition-property: 0.15s ease;
