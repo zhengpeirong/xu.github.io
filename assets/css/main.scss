@@ -362,6 +362,7 @@ $fa-font-path: "../webfonts";
   
         .hidden.open {
           max-height: 100em;
+          font-size: 0.9em; /* 添加这一行来设置新的字体大小 */
           transition-property: 0.15s ease;
           -moz-transition: 0.15s ease;
           -ms-transition: 0.15s ease;
