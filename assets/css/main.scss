@@ -349,14 +349,14 @@ $fa-font-path: "../webfonts";
           transition: all 0.15s ease;
   
           p {
-            line-height: 1.05em; /* 缩小行高 */
-            margin: 5px; /* 缩小外边距 */
+            line-height: 1.4em;
+            margin: 10px;
           }
   
           pre {
-            font-size: 0.5em; /* 字体大小设为原来的一半 */
-            line-height: 1.05em; /* 缩小行高 */
-            padding: 5px; /* 缩小内边距 */
+            font-size: 1em;
+            line-height: 1.4em;
+            padding: 10px;
           }
         }
   
