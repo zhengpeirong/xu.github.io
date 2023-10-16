@@ -1,0 +1,49 @@
+Journal Papers:
+
+1. TMC - IEEE Transactions on Mobile Computing
+- L. Wu, S. Guo, Z. Hong, Y. Liu, W. Xu, Y. Zhan, Long-term Adaptive VCG Auction Mechanism for Sustainable Federated Learning with Periodical Client Shifting, IEEE Transactions on Mobile Computing, accepted
+
+- J. Shen, N. Cheng, X. Wang, F. Lyu, W. Xu, Z. Liu, K. Aldubaikhy, X. Shen, RingSFL:An Adaptive Split Federated Learning Towards Taming Client Heterogeneity, IEEE Transactions on Mobile Computing, accepted
+
+- X. Xie, C. Hua, P. Gu, W. Xu, AirCon: Over-the-Air Consensus Protocol for Wireless Blockchain Networks, IEEE Transactions on Mobile Computing, July 2023
+
+2. TWC - IEEE Transactions on Wireless Communications  
+- H. Dong, C. Hua, L. Liu, W. Xu, S. Guo, Optimization-Driven DRL Based Joint Beamformer Design for IRS-Aided ITSN Against Smart Jamming Attacks, IEEE Transactions on Wireless Communications, DOI: 10.1109/TWC.2023.3281452
+
+- J. Chen, W. Xu, P. Hu, J. Wang, K. Chen, Y. Feng, S. Guo Towards Multi-user Access Fairness in Reconfigurable Intelligent Surface Assisted Wireless Networks, IEEE Wireless Communications Magazine, April, 2023
+
+3. TPDS - IEEE Transactions on Parallel and Distributed Systems
+- A. Jin, W. Xu, S. Guo, B. Hu, L. Yeung, PS+: A Simple yet Effective Framework for Fast Training on Parameter Server, IEEE Transactions on Parallel and Distributed Systems, Aug. 2022
+
+4. TITS - IEEE Transactions on Intelligent Transportation Systems
+- F. Lyu, H. Zhu, N. Cheng, H. Zhou, W. Xu, M. Li, X. Shen Characterizing Urban Vehicle-to-Vehicle Communica- tions for Reliable Safety Applications, IEEE Transactions on Intelligent Transportation Systems, early access (DOI 10.1109/TITS.2019.2920813)
+
+5. TVT - IEEE Transactions on Vehicular Technology 
+- D. Hu, J. Chen, H. Zhou, K. Yu, B. Qian, W. Xu, Leveraging Blockchain for Multi-Operator Access Sharing Management in Internet of Vehicles, IEEE Transactions on Vehicular Technology, Dec. 2021.
+
+6. TII - IEEE Transactions on Industrial Informatics
+- H. Wu, J. Chen, C. Zhou, W. Shi, N. Cheng, W. Xu, W. Zhuang and X. Shen Resource management in space-air- ground integrated vehicular networks: SDN control and AI algorithm design, IEEE Wireless Communications, 27(6), pp.52-60, 2020
+
+7. TON - IEEE/ACM Transactions on Networking
+- X. Wang, Q. Ma, J. Li, H. Zhang, W. Xu, An Improved SC Flip Decoding Algorithm of Polar Codes Based on Genetic Algorithm, IEEE Access, vol. 8, 2020.
+
+Conference Papers:
+
+1. ICCV - International Conference on Computer Vision  
+- X. Ma, J. Zhang, S. Guo, W. Xu, `SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models’, NeurIPS 2023, accepted
+
+2. NeurIPS - Conference on Neural Information Processing Systems
+- X. Ma, J. Zhang, S. Guo, W. Xu, `SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models’, NeurIPS 2023, accepted
+
+- J. Zhang, S. Guo, X. Ma, H. Wang W. Xu, F. Wu, Parameterized Knowledge Transfer for Personalized Federated Learning, Advances in Neural Information Processing Systems (NeurIPS) 34 (2021).
+
+3. ICML - International Conference on Machine Learning
+- J. Zhang, X. Ma, S. Guo, W. Xu, Towards Unbiased Training in Federated Open-world Semi-supervised Learning, accepted in International Conference on Machine Learning (ICML), 2023
+
+4. CVPR - IEEE/CVF Conference on Computer Vision and Pattern Recognition
+- Y. Fan, W. Xu, H. Wang, J. Wang, S. Guo, PMR: Prototypical Modal Rebalance for Multimodal Learning, accepted in IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR) 2023
+
+- H. Wang, Y. Li, W. Xu, R. Li, Y. Zhan, Z. Zeng, DaFKD: Domain-aware Federated Knowledge Distillation, accepted in IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR) 2023
+
+5. INFOCOM
+- H. Wang, W. Xu, Y. Fan, R. Li, P. Zhou, AOCC-FL: Federated Learning with Aligned Overlapping via Calibrated Compensation, accepted in INFOCOM 2023
