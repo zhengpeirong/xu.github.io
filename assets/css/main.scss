@@ -361,7 +361,7 @@ $fa-font-path: "../webfonts";
         }
   
         .hidden.open {
-          max-height: 50em; /* 缩小最大高度 */
+          max-height: 100em;
           transition-property: 0.15s ease;
           -moz-transition: 0.15s ease;
           -ms-transition: 0.15s ease;
@@ -370,7 +370,7 @@ $fa-font-path: "../webfonts";
         }
   
         div.abstract.hidden {
-          border: dashed 0.5px var(--global-bg-color); /* 缩小边框宽度 */
+          border: dashed 1px var(--global-bg-color);
         }
   
         div.abstract.hidden.open {
