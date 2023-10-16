@@ -323,12 +323,12 @@ $fa-font-path: "../webfonts";
         }
   
         .badges {
-          padding-bottom: 0.25rem; /* 缩小下内边距 */
+          padding-bottom: 0.5rem;
           span {
             display: inline-block;
             color: $black-color;
-            height: 50%; /* 缩小高度 */
-            padding-right: 0.25rem; /* 缩小右内边距 */
+            height: 100%;
+            padding-right: 0.5rem;
             vertical-align: middle;
   
             &:hover {
