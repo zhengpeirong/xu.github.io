@@ -47,3 +47,39 @@ Conference Papers:
 
 5. INFOCOM
 - H. Wang, W. Xu, Y. Fan, R. Li, P. Zhou, AOCC-FL: Federated Learning with Aligned Overlapping via Calibrated Compensation, accepted in INFOCOM 2023
+
+提取上述文献的标题如下:
+
+Long-term Adaptive VCG Auction Mechanism for Sustainable Federated Learning with Periodical Client Shifting
+
+RingSFL:An Adaptive Split Federated Learning Towards Taming Client Heterogeneity
+
+AirCon: Over-the-Air Consensus Protocol for Wireless Blockchain Networks
+
+Optimization-Driven DRL Based Joint Beamformer Design for IRS-Aided ITSN Against Smart Jamming Attacks
+
+Towards Multi-user Access Fairness in Reconfigurable Intelligent Surface Assisted Wireless Networks
+
+PS+: A Simple yet Effective Framework for Fast Training on Parameter Server
+
+Characterizing Urban Vehicle-to-Vehicle Communica- tions for Reliable Safety Applications
+
+Leveraging Blockchain for Multi-Operator Access Sharing Management in Internet of Vehicles
+
+Resource management in space-air- ground integrated vehicular networks: SDN control and AI algorithm design
+
+An Improved SC Flip Decoding Algorithm of Polar Codes Based on Genetic Algorithm
+
+SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models
+
+SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models
+
+Parameterized Knowledge Transfer for Personalized Federated Learning
+
+Towards Unbiased Training in Federated Open-world Semi-supervised Learning
+
+PMR: Prototypical Modal Rebalance for Multimodal Learning
+
+DaFKD: Domain-aware Federated Knowledge Distillation
+
+AOCC-FL: Federated Learning with Aligned Overlapping via Calibrated Compensation
