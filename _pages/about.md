@@ -39,8 +39,41 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 
 
 
-<!-- 已经移动到./includes/selectedPub文件 -->
-{% include selectedPub.md %}
+<!-- Selected Publication在这个文件./includes/selectedPub文件 -->
+<!-- {% include selectedPub.md %} -->
+{% include selectedPub.html %}
+
+
+<br>
+
+**Full publications can refer to [*here*](./pub.md).**
+
+# 🎖 Honors and Awards
+
+- *2023* Best Paper Award, PIMRC.
+- *2023* Best Demo Award Winner, ICCC.
+- *2020* Nobert Wiener Review Award, IEEE/CAA.
+- *2018* Best Paper Award, IEEE Globecom.
+- *2018* Ontario Research & Development Challenge Fund Bell Scholarship.
+
+# 📖 Educations
+
+- *2014.09 - 2018.09*, Ph.D., Electrical and Computer Engineering, University of Waterloo, Canada
+- *2008.09 - 2011.03*, Master of Engineering, Information and Communication Engineering, Zhejiang University, China.
+- *2004.09 - 2008.06*, Bachelor of Engineering, Communications Engineering, Chu Kochen Honors College, Zhejiang University, China.
+
+# 💻 Mentoring
+
+- *2022.09 - now*, Fushuo Huo, Ph.D. student at PolyU, Chief supervisor
+- *2022.09 - now*, Jinyu Chen, Ph.D. student at PolyU, Chief supervisor.
+- *2022.09 - now*, Yunfeng Fan, Ph.D. student at PolyU, Chief supervisor.
+- *2021.09 - now*, Zhaoyi Lu, Remote Ph.D. student at SJTU, Co-supervisor.
+- *2021.09 - 2022.09*, Haodong Wan, Research Assistant, at PolyU, Mentoring.
+- *2021.09 - 2022.05*, Hao Dong, Research Assistant, at PolyU, Mentoring.
+
+
+
+<!-- # 废弃代码： -->
 
 <!-- 以下是原始的左边图片、右边文献的形式 -->
 <!--  style='width: 500px; height: 300px;' -->
@@ -73,32 +106,3 @@ I received my B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, i
 [DaFKD: Domain-aware Federated Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.html), H. Wang, Y. Li, **W. Xu**, R. Li, Y. Zhan, Z. Zeng, **CVPR** 2023
 </div>
 </div> -->
-
-<br>
-
-**Full publications can refer to [*here*](./pub.md).**
-
-# 🎖 Honors and Awards
-
-- *2023* Best Paper Award, PIMRC.
-- *2023* Best Demo Award Winner, ICCC.
-- *2020* Nobert Wiener Review Award, IEEE/CAA.
-- *2018* Best Paper Award, IEEE Globecom.
-- *2018* Ontario Research & Development Challenge Fund Bell Scholarship.
-
-# 📖 Educations
-
-- *2014.09 - 2018.09*, Ph.D., Electrical and Computer Engineering, University of Waterloo, Canada
-- *2008.09 - 2011.03*, Master of Engineering, Information and Communication Engineering, Zhejiang University, China.
-- *2004.09 - 2008.06*, Bachelor of Engineering, Communications Engineering, Chu Kochen Honors College, Zhejiang University, China.
-
-# 💻 Mentoring
-
-- *2022.09 - now*, Fushuo Huo, Ph.D. student at PolyU, Chief supervisor
-- *2022.09 - now*, Jinyu Chen, Ph.D. student at PolyU, Chief supervisor.
-- *2022.09 - now*, Yunfeng Fan, Ph.D. student at PolyU, Chief supervisor.
-- *2021.09 - now*, Zhaoyi Lu, Remote Ph.D. student at SJTU, Co-supervisor.
-- *2021.09 - 2022.09*, Haodong Wan, Research Assistant, at PolyU, Mentoring.
-- *2021.09 - 2022.05*, Hao Dong, Research Assistant, at PolyU, Mentoring.
-
-
