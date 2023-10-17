@@ -1,5 +1,5 @@
 # 📝 Full Publications
-**Publication Index: 1 Monograph, 1 Patent, 46 [Journal](#journal-papers) and 34 [Conference](#conference-papers) papers.**
+**Publication Index: 1 Monograph, 1 Patent, 47 [Journal](#journal-papers) and 34 [Conference](#conference-papers) papers.**
 <!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
 ## Book
   - **W. Xu**, X. Shen, H. Zhou, [Internet Access in Vehicular Networks](https://link.springer.com/content/pdf/10.1007/978-3-030-88991-3.pdf), Springer, Dec, 2021
@@ -105,9 +105,9 @@
 
 ## Conference Papers
 
-1. X. Ma, J. Zhang, S. Guo, **W. Xu**, `SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models', **NeurIPS** 2023, accepted
+1. X. Ma, J. Zhang, S. Guo, **W. Xu**, `SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models', **NeurIPS 2023**, accepted
    
-1. **W. Xu**, H. Wan, N. Cheng, H. Zhou, M. Qin, [A Practical Fast Model Inference System Over Tiny Wireless Device](https://dl.acm.org/doi/abs/10.1145/1023720.1023728), accepted in **2023* International Symposium on Personal, Indoor and Mobile Radio Communications (**PIMRC**)
+1. **W. Xu**, H. Wan, N. Cheng, H. Zhou, M. Qin, [A Practical Fast Model Inference System Over Tiny Wireless Device](https://dl.acm.org/doi/abs/10.1145/1023720.1023728), accepted in **2023** International Symposium on Personal, Indoor and Mobile Radio Communications (**PIMRC**)
 
 2. J. Zhang, X. Ma, S. Guo, **W. Xu**, [Towards Unbiased Training in Federated Open-world Semi-supervised Learning](https://arxiv.org/abs/2305.00771), accepted in International Conference on Machine Learning (**ICML**), **2023**
 

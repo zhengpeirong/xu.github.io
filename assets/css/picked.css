@@ -1,0 +1,76 @@
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    /* 如果是电脑或平板 */
+    flex-wrap: nowrap;
+    flex-direction: row;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+
+/* 媒体查询：如果是手机 */
+@media (max-width: 767px) {
+  .row {
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+}
+
+.col-sm-8,.col-sm-2 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.col-sm-2{
+    -ms-flex: 0 0 16.666667%;
+    flex: 0 0 16.666667%;
+    max-width: 16.666667%;
+}
+.col-sm-8{
+    -ms-flex:0 0 99.9%;
+    flex:0 0 99.9%;
+    max-width:99.9%;
+    font-size: 15px;
+}
+.publications ol.bibliography li .abbr {
+  height: 15px;
+  margin-bottom: 0.25rem;
+}
+.btn.btn-sm{padding:.5rem 1.6rem;font-size:.64rem}
+
+.z-depth-0{-webkit-box-shadow:none !important;box-shadow:none !important}
+
+abbr.badge {
+  display: inline-block;
+  padding: .25em .4em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25rem;
+  position: relative;
+  top: -1px;
+}
+
+a.badge:focus,
+a.badge:hover {
+  text-decoration: none;
+}
+
+.badge:empty {
+  display: none;
+}
+
+.btn .badge {
+  position: relative;
+  top: -1px;
+}
+
+*,::after,::before{box-sizing:border-box}
+.article {
+  display: block;
+}
