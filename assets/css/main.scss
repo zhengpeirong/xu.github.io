@@ -198,191 +198,182 @@ $fa-font-path: "../webfonts";
   }
     
   
-    // h1 {
-    //   color: var(--global-theme-color);
-    //   font-size: 2rem;
-    //   text-align: center;
-    //   margin-top: 1em;
-    //   margin-bottom: 1em;
-    // }
+// .publications {
+//     margin-top: 1rem; /* 缩小margin-top */
   
-// publications
-.publications {
-    margin-top: 1rem; /* 缩小margin-top */
-  
-    h1 {
-        color: var(--global-theme-color);
-        font-size: 1rem;
-        text-align: center;
-        margin-top: 0.5em;
-        margin-bottom: 0.5em;
-    }
+//     h1 {
+//         color: var(--global-theme-color);
+//         font-size: 1rem;
+//         text-align: center;
+//         margin-top: 0.5em;
+//         margin-bottom: 0.5em;
+//     }
 
-    h2 {
-      margin-bottom: 0.5rem; /* 缩小margin-bottom */
+//     h2 {
+//       margin-bottom: 0.5rem; /* 缩小margin-bottom */
   
-      span {
-        font-size: 0.75rem; /* 字体大小设为原来的一半 */
-      }
-    }
+//       span {
+//         font-size: 0.75rem; /* 字体大小设为原来的一半 */
+//       }
+//     }
   
-    h2.bibliography {
-      color: var(--global-divider-color);
-      border-top: 0.5px solid var(--global-divider-color); /* 缩小边框宽度 */
-      padding-top: 0.5rem; /* 缩小上内边距 */
-      margin-top: 1rem; /* 缩小margin-top */
-      margin-bottom: -1rem; /* 缩小margin-bottom */
-      text-align: right;
-    }
+//     h2.bibliography {
+//       color: var(--global-divider-color);
+//       border-top: 0.5px solid var(--global-divider-color); /* 缩小边框宽度 */
+//       padding-top: 0.5rem; /* 缩小上内边距 */
+//       margin-top: 1rem; /* 缩小margin-top */
+//       margin-bottom: -1rem; /* 缩小margin-bottom */
+//       text-align: right;
+//     }
   
-    ol.bibliography {
-      list-style: none;
-      padding: 0;
-      margin-top: 0;
+//     ol.bibliography {
+//       list-style: none;
+//       padding: 0;
+//       margin-top: 0;
   
-      li {
-        margin-bottom: 0.5rem; /* 缩小margin-bottom */
+//       li {
+//         margin-bottom: 0.5rem; /* 缩小margin-bottom */
   
-        .preview {
-          width: 100%;
-          min-width: 40px; /* 缩小最小宽度 */
-          max-width: 100px; /* 缩小最大宽度 */
-        }
+//         .preview {
+//           width: 100%;
+//           min-width: 40px; /* 缩小最小宽度 */
+//           max-width: 100px; /* 缩小最大宽度 */
+//         }
   
-        .abbr {
-          height: 1rem; /* 缩小高度 */
-          margin-bottom: 0.25rem; /* 缩小margin-bottom */
+//         .abbr {
+//           height: 1rem; /* 缩小高度 */
+//           margin-bottom: 0.25rem; /* 缩小margin-bottom */
   
-          abbr {
-            display: inline-block;
-            background-color: var(--global-theme-color);
-            padding-left: 0.5rem; /* 缩小左内边距 */
-            padding-right: 0.5rem; /* 缩小右内边距 */
+//           abbr {
+//             display: inline-block;
+//             background-color: var(--global-theme-color);
+//             padding-left: 0.5rem; /* 缩小左内边距 */
+//             padding-right: 0.5rem; /* 缩小右内边距 */
   
-            a {
-              color: white;
+//             a {
+//               color: white;
   
-              &:hover {
-                text-decoration: none;
-              }
-            }
-          }
+//               &:hover {
+//                 text-decoration: none;
+//               }
+//             }
+//           }
   
-          .award {
-            color: var(--global-theme-color);
-            border: 0.5px solid var(--global-theme-color); /* 缩小边框宽度 */
-          }
-        }
+//           .award {
+//             color: var(--global-theme-color);
+//             border: 0.5px solid var(--global-theme-color); /* 缩小边框宽度 */
+//           }
+//         }
   
-        .title {
-          font-weight: bolder;
-        }
+//         .title {
+//           font-weight: bolder;
+//         }
   
-        .author {
-          a {
-            border-bottom: 0.5px dashed var(--global-theme-color); /* 缩小虚线宽度 */
+//         .author {
+//           a {
+//             border-bottom: 0.5px dashed var(--global-theme-color); /* 缩小虚线宽度 */
   
-            &:hover {
-              border-bottom-style: solid;
-              text-decoration: none;
-            }
-          }
+//             &:hover {
+//               border-bottom-style: solid;
+//               text-decoration: none;
+//             }
+//           }
   
-          > em {
-            border-bottom: 0.5px solid; /* 缩小虚线宽度 */
-            font-style: normal;
-          }
+//           > em {
+//             border-bottom: 0.5px solid; /* 缩小虚线宽度 */
+//             font-style: normal;
+//           }
   
-          > span.more-authors {
-            color: var(--global-text-color-light);
-            border-bottom: 0.5px dashed var(--global-text-color-light); /* 缩小虚线宽度 */
-            cursor: pointer;
+//           > span.more-authors {
+//             color: var(--global-text-color-light);
+//             border-bottom: 0.5px dashed var(--global-text-color-light); /* 缩小虚线宽度 */
+//             cursor: pointer;
   
-            &:hover {
-              color: var(--global-text-color);
-              border-bottom: 0.5px dashed var(--global-text-color); /* 缩小虚线宽度 */
-            }
-          }
-        }
+//             &:hover {
+//               color: var(--global-text-color);
+//               border-bottom: 0.5px dashed var(--global-text-color); /* 缩小虚线宽度 */
+//             }
+//           }
+//         }
   
-        .links {
-          a.btn {
-            color: var(--global-text-color);
-            border: 0.5px solid var(--global-text-color); /* 缩小边框宽度 */
-            padding-left: 0.5rem; /* 缩小左内边距 */
-            padding-right: 0.5rem; /* 缩小右内边距 */
-            padding-top: 0.125rem; /* 缩小上内边距 */
-            padding-bottom: 0.125rem; /* 缩小下内边距 */
-            margin-left: 0;
+//         .links {
+//           a.btn {
+//             color: var(--global-text-color);
+//             border: 0.5px solid var(--global-text-color); /* 缩小边框宽度 */
+//             padding-left: 0.5rem; /* 缩小左内边距 */
+//             padding-right: 0.5rem; /* 缩小右内边距 */
+//             padding-top: 0.125rem; /* 缩小上内边距 */
+//             padding-bottom: 0.125rem; /* 缩小下内边距 */
+//             margin-left: 0;
   
-            &:hover {
-              color: var(--global-theme-color);
-              border-color: var(--global-theme-color);
-            }
-          }
-        }
+//             &:hover {
+//               color: var(--global-theme-color);
+//               border-color: var(--global-theme-color);
+//             }
+//           }
+//         }
   
-        .badges {
-          padding-bottom: 0.5rem;
-          span {
-            display: inline-block;
-            color: $black-color;
-            height: 100%;
-            padding-right: 0.5rem;
-            vertical-align: middle;
+//         .badges {
+//           padding-bottom: 0.5rem;
+//           span {
+//             display: inline-block;
+//             color: $black-color;
+//             height: 100%;
+//             padding-right: 0.5rem;
+//             vertical-align: middle;
   
-            &:hover {
-              text-decoration: underline;
-            }
-          }
-        }
+//             &:hover {
+//               text-decoration: underline;
+//             }
+//           }
+//         }
   
-        .hidden {
-          font-size: 0.875rem; /* 字体大小设为原来的一半 */
-          max-height: 0; /*这才是hidden的根本原理*/
-          overflow: hidden;
-          text-align: justify;
-          transition-property: 0.15s ease;
-          -moz-transition: 0.15s ease;
-          -ms-transition: 0.15s ease;
-          -o-transition: 0.15s ease;
-          transition: all 0.15s ease;
+//         .hidden {
+//           font-size: 0.875rem; /* 字体大小设为原来的一半 */
+//           max-height: 0; /*这才是hidden的根本原理*/
+//           overflow: hidden;
+//           text-align: justify;
+//           transition-property: 0.15s ease;
+//           -moz-transition: 0.15s ease;
+//           -ms-transition: 0.15s ease;
+//           -o-transition: 0.15s ease;
+//           transition: all 0.15s ease;
   
-          p {
-            line-height: 1.4em;
-            margin: 10px;
-          }
+//           p {
+//             line-height: 1.4em;
+//             margin: 10px;
+//           }
   
-          pre {
-            font-size: 1em;
-            line-height: 1.4em;
-            padding: 10px;
-          }
-        }
+//           pre {
+//             font-size: 1em;
+//             line-height: 1.4em;
+//             padding: 10px;
+//           }
+//         }
   
-        .hidden.open {
-          max-height: 100em;
-          font-size: 0.9em; /* 添加这一行来设置新的字体大小 */
-          transition-property: 0.15s ease;
-          -moz-transition: 0.15s ease;
-          -ms-transition: 0.15s ease;
-          -o-transition: 0.15s ease;
-          transition: all 0.15s ease;
-          // 用于纠正原本的SCSS文件的hidden类
-          display: block;
-          visibility: visible;
-        }
+//         .hidden.open {
+//           max-height: 100em;
+//           font-size: 0.9em; /* 添加这一行来设置新的字体大小 */
+//           transition-property: 0.15s ease;
+//           -moz-transition: 0.15s ease;
+//           -ms-transition: 0.15s ease;
+//           -o-transition: 0.15s ease;
+//           transition: all 0.15s ease;
+//           // 用于纠正原本的SCSS文件的hidden类
+//           display: block;
+//           visibility: visible;
+//         }
   
-        div.abstract.hidden {
-          border: dashed 1px var(--global-bg-color);
-        }
+//         div.abstract.hidden {
+//           border: dashed 1px var(--global-bg-color);
+//         }
   
-        div.abstract.hidden.open {
-          border-color: var(--global-text-color);
-        }
-      }
-    }
-  }
+//         div.abstract.hidden.open {
+//           border-color: var(--global-text-color);
+//         }
+//       }
+//     }
+//   }
   
 
 
@@ -411,50 +402,223 @@ $fa-font-path: "../webfonts";
     }
   }
 
+.btn-group.dropdown {
+  .btn {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+  }
 
-  .btn-group.dropdown {
-    .btn {
-      box-shadow: none;
-      -webkit-box-shadow: none;
+  .btn-secondary.dropdown-toggle {
+    border: 1px solid var(--global-divider-color);
+
+    .page-size {
+      color: inherit;
     }
-  
-    .btn-secondary.dropdown-toggle {
-      border: 1px solid var(--global-divider-color);
-  
-      .page-size {
-        color: inherit;
-      }
-  
-      &:not(.active) {
-        background-color: var(--global-bg-color) !important;
-        color: var(--global-text-color);
-      }
-  
-      &:hover {
-        background-color: var(--global-hover-color) !important;
-        color: var(--global-hover-text-color) !important;
-      }
-    }
-  
-    .dropdown-menu {
-      background-color: var(--global-bg-color);
-    }
-  
-    .dropdown-item {
-      background-color: var(--global-bg-color);
+
+    &:not(.active) {
+      background-color: var(--global-bg-color) !important;
       color: var(--global-text-color);
-  
-      &:hover {
-        color: var(--global-hover-color);
-      }
     }
-  
-    .dropdown-item.active, .dropdown-item:active {
-      background-color: var(--global-hover-color);
+
+    &:hover {
+      background-color: var(--global-hover-color) !important;
       color: var(--global-hover-text-color) !important;
-  
-      &:hover {
-        color: var(--global-hover-text-color);
+    }
+  }
+
+  .dropdown-menu {
+    background-color: var(--global-bg-color);
+  }
+
+  .dropdown-item {
+    background-color: var(--global-bg-color);
+    color: var(--global-text-color);
+
+    &:hover {
+      color: var(--global-hover-color);
+    }
+  }
+
+  .dropdown-item.active, .dropdown-item:active {
+    background-color: var(--global-hover-color);
+    color: var(--global-hover-text-color) !important;
+
+    &:hover {
+      color: var(--global-hover-text-color);
+    }
+  }
+}
+
+
+.publications {
+  margin-top: 2rem;
+
+  h1 {
+    color: var(--global-theme-color);
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+
+  h2 {
+    margin-bottom: 1rem;
+
+    span {
+      font-size: 1.5rem;
+    }
+  }
+
+  h2.bibliography {
+    color: var(--global-divider-color);
+    border-top: 1px solid var(--global-divider-color);
+    padding-top: 1rem;
+    margin-top: 2rem;
+    margin-bottom: -2rem;
+    text-align: right;
+  }
+
+  ol.bibliography {
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+
+    li {
+      margin-bottom: 1rem;
+
+      .preview {
+        width: 100%;
+        min-width: 80px;
+        max-width: 200px;
+      }
+
+      .abbr {
+        height: 2rem;
+        margin-bottom: 0.5rem;
+
+        abbr {
+          display: inline-block;
+          background-color: var(--global-theme-color);
+          padding-left: 1rem;
+          padding-right: 1rem;
+
+          a {
+            color: white;
+
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+
+        .award {
+          color: var(--global-theme-color) !important;
+          border: 1px solid var(--global-theme-color);
+        }
+      }
+
+      .title {
+        font-weight: bolder;
+      }
+
+      .author {
+        a {
+          border-bottom: 1px dashed var(--global-theme-color);
+
+          &:hover {
+            border-bottom-style: solid;
+            text-decoration: none;
+          }
+        }
+
+        >em {
+          border-bottom: 1px solid;
+          font-style: normal;
+        }
+
+        >span.more-authors {
+          color: var(--global-text-color-light);
+          border-bottom: 1px dashed var(--global-text-color-light);
+          cursor: pointer;
+
+          &:hover {
+            color: var(--global-text-color);
+            border-bottom: 1px dashed var(--global-text-color);
+          }
+        }
+      }
+
+      .links {
+        a.btn {
+          color: var(--global-text-color);
+          border: 1px solid var(--global-text-color);
+          padding-left: 1rem;
+          padding-right: 1rem;
+          padding-top: 0.25rem;
+          padding-bottom: 0.25rem;
+          margin-left: 0;
+
+          &:hover {
+            color: var(--global-theme-color);
+            border-color: var(--global-theme-color);
+          }
+        }
+      }
+
+      .badges {
+        padding-bottom: 0.5rem;
+        span {
+          display: inline-block;
+          color: $black-color;
+          height: 100%;
+          padding-right: 0.5rem;
+          vertical-align: middle;
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+
+      .hidden {
+        font-size: 0.875rem;
+        max-height: 0px;
+        overflow: hidden;
+        text-align: justify;
+        transition-property: 0.15s ease;
+        -moz-transition: 0.15s ease;
+        -ms-transition: 0.15s ease;
+        -o-transition: 0.15s ease;
+        transition: all 0.15s ease;
+
+        p {
+          line-height: 1.4em;
+          margin: 10px;
+        }
+
+        pre {
+          font-size: 1em;
+          line-height: 1.4em;
+          padding: 10px;
+        }
+      }
+
+      .hidden.open {
+        max-height: 100em;
+        transition-property: 0.15s ease;
+        -moz-transition: 0.15s ease;
+        -ms-transition: 0.15s ease;
+        -o-transition: 0.15s ease;
+        transition: all 0.15s ease;
+      }
+
+      div.abstract.hidden {
+        border: dashed 1px var(--global-bg-color);
+      }
+
+      div.abstract.hidden.open {
+        border-color: var(--global-text-color);
       }
     }
   }
+}
