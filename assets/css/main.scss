@@ -610,6 +610,9 @@ $fa-font-path: "../webfonts";
         -ms-transition: 0.15s ease;
         -o-transition: 0.15s ease;
         transition: all 0.15s ease;
+        // 用于纠正原本的SCSS文件的hidden类
+        display: block;
+        visibility: visible;
       }
 
       div.abstract.hidden {
