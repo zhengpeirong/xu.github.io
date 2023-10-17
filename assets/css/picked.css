@@ -4,6 +4,7 @@
     /* align-items: center; */
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+    flex-direction: column;
     margin-right: -15px;
     margin-left: -15px;
   }
@@ -20,9 +21,9 @@
     max-width: 16.666667%;
 }
 .col-sm-8{
-    -ms-flex:0 0 66.6666667%;
-    flex:0 0 66.6666667%;
-    max-width:66.6666667%;
+    -ms-flex:0 0 90%;
+    flex:0 0 90%;
+    max-width:90%;
     font-size: 15px;
 }
 .publications ol.bibliography li .abbr {
