@@ -2,18 +2,12 @@
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    flex-direction: column;
+    /* 如果是电脑或平板 */
+    flex-wrap: nowrap;
+    flex-direction: row;
     margin-right: -15px;
     margin-left: -15px;
   }
-/* 媒体查询：如果是电脑或平板 */
-@media (min-width: 768px) {
-  .row {
-    flex-wrap: nowrap;
-    flex-direction: row;
-  }
-}
 
 /* 媒体查询：如果是手机 */
 @media (max-width: 767px) {
@@ -22,6 +16,7 @@
     flex-direction: column;
   }
 }
+
 .col-sm-8,.col-sm-2 {
     position: relative;
     width: 100%;
