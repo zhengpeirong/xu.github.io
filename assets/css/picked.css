@@ -32,3 +32,29 @@
 .btn.btn-sm{padding:.5rem 1.6rem;font-size:.64rem}
 
 .z-depth-0{-webkit-box-shadow:none !important;box-shadow:none !important}
+
+abbr.badge {
+  display: inline-block;
+  padding: .25em .4em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25rem;
+}
+
+a.badge:focus,
+a.badge:hover {
+  text-decoration: none;
+}
+
+.badge:empty {
+  display: none;
+}
+
+.btn .badge {
+  position: relative;
+  top: -1px;
+}
