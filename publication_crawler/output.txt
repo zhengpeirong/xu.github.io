@@ -1,0 +1,5 @@
+## Book
+  - **W. Xu**, X. Shen, H. Zhou, [Internet Access in Vehicular Networks](https://link.springer.com/content/pdf/10.1007/978-3-030-88991-3.pdf), Springer, Dec, 2021
+
+## Patent
+  - X. Shen,**W. Xu**, H. Zhou, [System and Method for Automotive Wi-Fi Access and Connection](https://patents.google.com/patent/US11026072B2/en), Authorized in US and China, Application number:  PCT/CA2017/051292 (US) CN110024476A (CHN)
