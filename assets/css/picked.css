@@ -4,7 +4,7 @@
     /* align-items: center; */
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    flex-direction: column;
+    /* flex-direction: column; */
     margin-right: -15px;
     margin-left: -15px;
   }
