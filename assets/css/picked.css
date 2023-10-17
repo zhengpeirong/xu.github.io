@@ -21,9 +21,9 @@
     max-width: 16.666667%;
 }
 .col-sm-8{
-    -ms-flex:0 0 90%;
-    flex:0 0 90%;
-    max-width:90%;
+    -ms-flex:0 0 99.9%;
+    flex:0 0 99.9%;
+    max-width:99.9%;
     font-size: 15px;
 }
 .publications ol.bibliography li .abbr {
