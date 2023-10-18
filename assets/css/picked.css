@@ -95,45 +95,45 @@ a.badge:hover {
 */
 /* 根据期刊、会议的类别设置颜色 */
 .abbr abbr[title*="INFOCOM"] {
-  background-color: #FF9999;/* 你可以选择自己喜欢的颜色 */
+  background-color: #FF9999 !important;/* 你可以选择自己喜欢的颜色 */
 }
 
 .abbr abbr[title*="CVPR"] {
-  background-color: #FFCC99;
+  background-color: #FFCC99 !important;
 }
 
 .abbr abbr[title*="ICML"] {
-  background-color: #FFFF99;
+  background-color: #FFFF99 !important;
 }
 
 .abbr abbr[title*="NIPS"] {
-  background-color: #CCFF99;
+  background-color: #CCFF99 !important;
 }
 
 .abbr abbr[title*="IEEE WC"] {
-  background-color: #99FF99;
+  background-color: #99FF99 !important;
 }
 
 .abbr abbr[title*="TWC"] {
-  background-color: #99FFCC;
+  background-color: #99FFCC !important;
 }
 
 .abbr abbr[title*="TMC"] {
-  background-color: #99FFFF;
+  background-color: #99FFFF !important;
 }
 
 .abbr abbr[title*="TPDS"] {
-  background-color: #99CCFF;
+  background-color: #99CCFF !important;
 }
 
 .abbr abbr[title*="TVT"] {
-  background-color: #9999FF;
+  background-color: #9999FF !important;
 }
 
 .abbr abbr[title*="TITS"] {
-  background-color: #CC99FF;
+  background-color: #CC99FF !important;
 }
 
 .abbr abbr[title*="JAS"] {
-  background-color: #FF99FF;
+  background-color: #FF99FF !important;
 }
