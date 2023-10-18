@@ -78,3 +78,62 @@ a.badge:hover {
     max-width: 99%;
   }
 }
+
+/* 
+总共有以下期刊、会议的类别：
+  INFOCOM
+  CVPR
+  ICML
+  NIPS
+  IEEE WC
+  TWC
+  TMC
+  TPDS
+  TVT
+  TITS
+  JAS 
+*/
+/* 根据期刊、会议的类别设置颜色 */
+.abbr abbr[title*="INFOCOM"] {
+  background-color: #FF9999;/* 你可以选择自己喜欢的颜色 */
+}
+
+.abbr abbr[title*="CVPR"] {
+  background-color: #FFCC99;
+}
+
+.abbr abbr[title*="ICML"] {
+  background-color: #FFFF99;
+}
+
+.abbr abbr[title*="NIPS"] {
+  background-color: #CCFF99;
+}
+
+.abbr abbr[title*="IEEE WC"] {
+  background-color: #99FF99;
+}
+
+.abbr abbr[title*="TWC"] {
+  background-color: #99FFCC;
+}
+
+.abbr abbr[title*="TMC"] {
+  background-color: #99FFFF;
+}
+
+.abbr abbr[title*="TPDS"] {
+  background-color: #99CCFF;
+}
+
+.abbr abbr[title*="TVT"] {
+  background-color: #9999FF;
+}
+
+.abbr abbr[title*="TITS"] {
+  background-color: #CC99FF;
+}
+
+.abbr abbr[title*="JAS"] {
+  background-color: #FF99FF;
+}
