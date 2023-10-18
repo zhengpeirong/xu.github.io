@@ -47,4 +47,49 @@ $(document).ready(function() {
     });
   });
   
-  
+
+
+/* 
+总共有以下11个期刊、会议的类别：
+  INFOCOM
+  CVPR
+  ICML
+  NIPS
+  IEEE WC
+  TWC
+  TMC
+  TPDS
+  TVT
+  TITS
+  JAS 
+*/
+
+document.addEventListener("DOMContentLoaded", function() {
+  // 获取所有abbr元素，分别分配颜色
+    let abbrElements = document.querySelectorAll('abbr.badge');
+
+    // 关键词和颜色的映射
+    const keywordColorMap = {
+      "INFOCOM": "#CC6666",
+      "CVPR": "#CC9933",
+      "ICML": "#CCCC33",
+      "NIPS": "#99CC33",
+      "IEEE WC": "#66CC66",
+      "TWC": "#33CC99",
+      "TMC": "#33CCCC",
+      "TPDS": "#3366CC",
+      "TVT": "#9999FF",  // 保持原色，因为已经是深色
+      "TITS": "#CC99FF", // 保持原色，因为是中间色
+      "JAS": "#CC33CC"
+    };
+
+    abbrElements.forEach(element => {
+        for (let keyword in keywordColorMap) {
+            if (element.textContent.includes(keyword)) {
+                element.style.backgroundColor = keywordColorMap[keyword];
+                element.style.color = "white";
+                break;  // 匹配到关键词后跳出循环
+            }
+        }
+    });
+});
