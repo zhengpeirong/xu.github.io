@@ -70,17 +70,17 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // 关键词和颜色的映射
     const keywordColorMap = {
-        "INFOCOM": "#FF9999",
-        "CVPR": "#FFCC99",
-        "ICML": "#FFFF99",
-        "NIPS": "#CCFF99",
-        "IEEE WC": "#99FF99",
-        "TWC": "#99FFCC",
-        "TMC": "#99FFFF",
-        "TPDS": "#99CCFF",
-        "TVT": "#9999FF",
-        "TITS": "#CC99FF",
-        "JAS": "#FF99FF"
+      "INFOCOM": "#CC6666",
+      "CVPR": "#CC9933",
+      "ICML": "#CCCC33",
+      "NIPS": "#99CC33",
+      "IEEE WC": "#66CC66",
+      "TWC": "#33CC99",
+      "TMC": "#33CCCC",
+      "TPDS": "#3366CC",
+      "TVT": "#9999FF",  // 保持原色，因为已经是深色
+      "TITS": "#CC99FF", // 保持原色，因为是中间色
+      "JAS": "#CC33CC"
     };
 
     abbrElements.forEach(element => {
