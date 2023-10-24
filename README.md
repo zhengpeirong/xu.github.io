@@ -24,7 +24,7 @@ Some examples:
 - [Personal Homepage of the author](https://rayeren.github.io/)
 
 ## 修改selected publications的流程
-  1. 打开_includes/selectedPub.html文件，仿照其它的publication，添加相应信息，大部分信息从论文的BibTeX里可以找到。参考示例，请替换`[]`及其内的内容：
+  1. 打开_includes/selectedPub.html文件，仿照其它的publication，添加相应信息，大部分信息从论文的BibTeX里可以找到。参考示例（请替换`[]`及其内的内容）：
      ```
      <div class="col-sm-2 abbr"><abbr class="badge">[期刊或者会议的缩写]</abbr></div>
                         <div id="[BibTeX的id，比如wang2023aocc]" class="col-sm-8">
@@ -43,9 +43,7 @@ Some examples:
                             </div>
                         </div>
      ```
-     - 注意：
-     1. 以上代码中的 `[]` 应该全部删去；
-     2. 如果没有超过3名作者或者不需点击展开全部作者的功能，则应该删去`<span> </span>`代码块。
+     - 注意：如果没有超过3名作者或者不需点击展开全部作者的功能，则应该删去`<span> </span>`代码块。
 
   3. 如果出版机构的缩写比如ICML没有过，则应该修改assets/js/common.js文件内的keywordColorMap，为不同的出版机构添加不同的颜色。可以选择以下颜色：
      - 以下是ChatGPT为您生成的一些新的颜色代码：
@@ -60,7 +58,6 @@ Some examples:
         "#FF6633" - 橙色
         "#3399FF" - 天蓝色
         "#66FFCC" - 淡绿色
-    ```
 
 ## Key Features
 - **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
