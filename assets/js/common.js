@@ -64,6 +64,17 @@ $(document).ready(function() {
   JAS 
 */
 
+// "#6633CC" - 中度紫色
+// "#CC3366" - 玫瑰红
+// "#669933" - 深绿色
+// "#996633" - 棕色
+// "#339966" - 海绿色
+// "#66CC99" - 薄荷绿
+// "#FFCC66" - 金色
+// "#FF6633" - 橙色
+// "#3399FF" - 天蓝色
+// "#66FFCC" - 淡绿色
+
 document.addEventListener("DOMContentLoaded", function() {
   // 获取所有abbr元素，分别分配颜色
     let abbrElements = document.querySelectorAll('abbr.badge');
@@ -80,7 +91,9 @@ document.addEventListener("DOMContentLoaded", function() {
       "TPDS": "#3366CC",
       "TVT": "#9999FF",  // 保持原色，因为已经是深色
       "TITS": "#CC99FF", // 保持原色，因为是中间色
-      "JAS": "#CC33CC"
+      "JAS": "#CC33CC",
+      "ECML PKDD": "#6633CC",
+      "Proc. IEEE": "#CC3366",
     };
 
     abbrElements.forEach(element => {
