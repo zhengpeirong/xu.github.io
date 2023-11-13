@@ -11,7 +11,7 @@
 
 1. X. Xie, C. Hua, J. Hong, **W. Xu**, Optimal Power Control and CSI Acquisition for Over-the-Air Computation in OFDM System, **IEEE Transactions on Wireless Communications**, accepted
 
-1. L. Wu, S. Guo, Z. Hong, Y. Liu, **W. Xu**, Y. Zhan, [Long-term Adaptive VCG Auction Mechanism for Sustainable Federated Learning with Periodical Client Shifting](https://ieeexplore.ieee.org/abstract/document/10255325/), **IEEE Transactions on Mobile Computing**, accepted
+1. L. Wu, S. Guo, Z. Hong, Y. Liu, **W. Xu**, Y. Zhan, [Long-term Adaptive VCG Auction Mechanism for Sustainable Federated Learning with Periodical Client Shifting](https://ieeexplore.ieee.org/abstract/document/10255325/), **IEEE Transactions on Mobile Computing**, Sep. 2023
 
 2. J. Shen, N. Cheng, X. Wang, F. Lyu, **W. Xu**, Z. Liu, K. Aldubaikhy, X. Shen, [RingSFL:An Adaptive Split Federated Learning Towards Taming Client Heterogeneity](https://ieeexplore.ieee.org/abstract/document/10234718/), **IEEE Transactions on Mobile Computing**, accepted
 
