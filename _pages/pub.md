@@ -1,5 +1,5 @@
 # 📝 Full Publications
-**Publication Index: 1 Monograph, 1 Patent, 47 [Journal](#journal-papers) and 34 [Conference](#conference-papers) papers.**
+**Publication Index: 1 Monograph, 1 Patent, 48 [Journal](#journal-papers) and 34 [Conference](#conference-papers) papers.**
 <!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
 ## Book
   - **W. Xu**, X. Shen, H. Zhou, [Internet Access in Vehicular Networks](https://link.springer.com/content/pdf/10.1007/978-3-030-88991-3.pdf), Springer, Dec, 2021
@@ -8,6 +8,8 @@
   - X. Shen,**W. Xu**, H. Zhou, [System and Method for Automotive Wi-Fi Access and Connection](https://patents.google.com/patent/US11026072B2/en), Authorized in US and China, Application number:  PCT/CA2017/051292 (US) CN110024476A (CHN)
 
 ## Journal Papers
+
+1. X. Xie, C. Hua, J. Hong, **W. Xu**, [Optimal Power Control and CSI Acquisition for Over-the-Air Computation in OFDM System], **IEEE Transactions on Wireless Communications**, accepted
 
 1. L. Wu, S. Guo, Z. Hong, Y. Liu, **W. Xu**, Y. Zhan, [Long-term Adaptive VCG Auction Mechanism for Sustainable Federated Learning with Periodical Client Shifting](https://ieeexplore.ieee.org/abstract/document/10255325/), **IEEE Transactions on Mobile Computing**, accepted
 
