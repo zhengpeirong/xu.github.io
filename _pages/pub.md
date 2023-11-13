@@ -9,7 +9,7 @@
 
 ## Journal Papers
 
-1. X. Xie, C. Hua, J. Hong, **W. Xu**, [Optimal Power Control and CSI Acquisition for Over-the-Air Computation in OFDM System], **IEEE Transactions on Wireless Communications**, accepted
+1. X. Xie, C. Hua, J. Hong, **W. Xu**, Optimal Power Control and CSI Acquisition for Over-the-Air Computation in OFDM System, **IEEE Transactions on Wireless Communications**, accepted
 
 1. L. Wu, S. Guo, Z. Hong, Y. Liu, **W. Xu**, Y. Zhan, [Long-term Adaptive VCG Auction Mechanism for Sustainable Federated Learning with Periodical Client Shifting](https://ieeexplore.ieee.org/abstract/document/10255325/), **IEEE Transactions on Mobile Computing**, accepted
 
