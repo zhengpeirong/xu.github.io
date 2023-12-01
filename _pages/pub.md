@@ -1,5 +1,5 @@
 # 📝 Full Publications
-**Publication Index: 1 Monograph, 1 Patent, 49 [Journal](#journal-papers) and 34 [Conference](#conference-papers) papers.**
+**Publication Index: 1 Monograph, 1 Patent, 49 [Journal](#journal-papers) and 35 [Conference](#conference-papers) papers.**
 <!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
 ## Book
   - **W. Xu**, X. Shen, H. Zhou, [Internet Access in Vehicular Networks](https://link.springer.com/content/pdf/10.1007/978-3-030-88991-3.pdf), Springer, Dec, 2021
@@ -108,6 +108,8 @@
 47. Y. Bi, H. Zhou, **W. Xu**, X. Shen, H. Zhao, [An efficient PMIPv6-based handoff scheme for urban vehicular networks](https://ieeexplore.ieee.org/abstract/document/7534784/), **IEEE transactions on intelligent transportation systems**, vol.17, no.12, pp.3613–3628, **2016**
 
 ## Conference Papers
+
+1. J. Chen, **W. Xu**, Z. Hong, S. Guo, H. Wang, J. Zhang, D. Zeng, `OTAS: An Elastic Transformer Serving System via Token Adaptation', IEEE INFOCOM 2024, accepted
 
 1. X. Ma, J. Zhang, S. Guo, **W. Xu**, `SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models', **NeurIPS 2023**, accepted
    
