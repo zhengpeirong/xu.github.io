@@ -109,7 +109,7 @@
 
 ## Conference Papers
 
-1. J. Chen, **W. Xu**, Z. Hong, S. Guo, H. Wang, J. Zhang, D. Zeng, `OTAS: An Elastic Transformer Serving System via Token Adaptation', IEEE INFOCOM 2024, accepted
+1. J. Chen, **W. Xu**, Z. Hong, S. Guo, H. Wang, J. Zhang, D. Zeng, `OTAS: An Elastic Transformer Serving System via Token Adaptation', **IEEE INFOCOM 2024**, accepted
 
 1. X. Ma, J. Zhang, S. Guo, **W. Xu**, `SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models', **NeurIPS 2023**, accepted
    
