@@ -2,16 +2,16 @@
 **Publication Index: 1 Monograph, 1 Patent, 51 [Journal](#journal-papers) and 38 [Conference](#conference-papers) papers.**
 <!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
 ## Book
-  - **W. Xu**, X. Shen, H. Zhou, [Internet Access in Vehicular Networks](https://link.springer.com/content/pdf/10.1007/978-3-030-88991-3.pdf), Springer, Dec, 2021
+  - **W. Xu**, X. Shen, H. Zhou, [Internet Access in Vehicular Networks](https://link.springer.com/content/pdf/10.1007/978-3-030-88991-3.pdf), **Springer**, Dec, 2021
 
 ## Patent
   - X. Shen,**W. Xu**, H. Zhou, [System and Method for Automotive Wi-Fi Access and Connection](https://patents.google.com/patent/US11026072B2/en), Authorized in US and China, Application number:  PCT/CA2017/051292 (US) CN110024476A (CHN)
 
 ## Journal Papers
 
-1. Q. Chen, S. Guo, **W. Xu**, J. Li, K. Wei, Z. Cai, H. Gao, Peak AoI Minimization with Directional Charging for Data Collection at Wireless-Powered Network Edge, Transactions on Services Computing, accepted
+1. Q. Chen, S. Guo, **W. Xu**, J. Li, K. Wei, Z. Cai, H. Gao, Peak AoI Minimization with Directional Charging for Data Collection at Wireless-Powered Network Edge, **Transactions on Services Computing**, accepted
 
-1. F. Huo, Z. Liu, J. Guo, **W. Xu**, S. Guo, UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection, Elsevier Neural Networks, accepted
+1. F. Huo, Z. Liu, J. Guo, **W. Xu**, S. Guo, UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection, **Elsevier Neural Networks**, accepted
 
 1. X. Xie, C. Hua, J. Hong, **W. Xu**, Optimal Power Control and CSI Acquisition for Over-the-Air Computation in OFDM System, **IEEE Transactions on Wireless Communications**, accepted
 
