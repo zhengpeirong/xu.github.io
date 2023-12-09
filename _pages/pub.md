@@ -113,6 +113,12 @@
 
 ## Conference Papers
 
+1. M Zhi, Y. Bi, **W. Xu**, H. Wang, T. Xiang, Knowledge-Aware Parameter Coaching for Personalized Federated Learning, Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI2024)
+
+1. F. Huo, **W. Xu**, S. Guo, J. Guo, H. Wang, Z. Liu, X. Lu, ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning, Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI2024)
+
+1. F. Huo, **W. Xu**, J. Guo, H. Wang, Y. Fan, Non-Exemplar Online Class-incremental Continual Learning via Dual-prototype Self-augment and Refinement, Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI2024)
+
 1. J. Chen, **W. Xu**, Z. Hong, S. Guo, H. Wang, J. Zhang, D. Zeng, `OTAS: An Elastic Transformer Serving System via Token Adaptation', **IEEE INFOCOM 2024**, accepted
 
 1. X. Ma, J. Zhang, S. Guo, **W. Xu**, `SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models', **NeurIPS 2023**, accepted
