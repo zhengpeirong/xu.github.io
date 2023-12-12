@@ -89,11 +89,13 @@ document.addEventListener("DOMContentLoaded", function() {
       "TWC": "#33CC99",
       "TMC": "#33CCCC",
       "TPDS": "#3366CC",
-      "TVT": "#9999FF",  // 保持原色，因为已经是深色
-      "TITS": "#CC99FF", // 保持原色，因为是中间色
+      "TVT": "#9999FF", 
+      "TITS": "#CC99FF", 
       "JAS": "#CC33CC",
       "ECML PKDD": "#6633CC",
       "Proc. IEEE": "#CC3366",
+      "Proc. IEEE": "#CC3366",
+      "AAAI" : "#918d95",
     };
 
     abbrElements.forEach(element => {
