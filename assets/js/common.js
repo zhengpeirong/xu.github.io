@@ -94,7 +94,7 @@ document.addEventListener("DOMContentLoaded", function() {
       "JAS": "#CC33CC",
       "ECML PKDD": "#6633CC",
       "Proc. IEEE": "#CC3366",
-      "AAAI" : "#6633CC",
+      "AAAI" : "#918d95",
     };
 
     abbrElements.forEach(element => {
