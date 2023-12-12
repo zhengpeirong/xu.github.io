@@ -94,7 +94,6 @@ document.addEventListener("DOMContentLoaded", function() {
       "JAS": "#CC33CC",
       "ECML PKDD": "#6633CC",
       "Proc. IEEE": "#CC3366",
-      "Proc. IEEE": "#CC3366",
       "AAAI" : "#918d95",
     };
 
