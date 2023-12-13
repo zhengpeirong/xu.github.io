@@ -113,6 +113,8 @@
 
 ## Conference Papers
 
+1. Y. Liu, H. Wang, S. Wang, Z. He, **W. Xu**, J. Zhu, F. Yang, Disentangle Estimation of Casual Effects from Cross-Silo Data, **ICASSP2024**
+
 1. M Zhi, Y. Bi, **W. Xu**, H. Wang, T. Xiang, Knowledge-Aware Parameter Coaching for Personalized Federated Learning, Thirty-Eighth AAAI Conference on Artificial Intelligence (**AAAI2024**)
 
 1. F. Huo, **W. Xu**, S. Guo, J. Guo, H. Wang, Z. Liu, X. Lu, ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning, Thirty-Eighth AAAI Conference on Artificial Intelligence (**AAAI2024**)
