@@ -9,7 +9,9 @@
 
 ## Journal Papers
 
-1. Q. Chen, S. Guo, **W. Xu**, J. Li, K. Wei, Z. Cai, H. Gao, Peak AoI Minimization with Directional Charging for Data Collection at Wireless-Powered Network Edge, **Transactions on Services Computing**, accepted
+1. D. Chen, **W. Xu**, R. Li, H. Wang, Y. Qi, P. Zhou, S. Guo, Caching User-Generated Content in Distributed Autonomous Networks via Contextual Bandit, **IEEE Transactions on Mobile Computing**, accepted
+
+1. Q. Chen, S. Guo, **W. Xu**, J. Li, K. Wei, Z. Cai, H. Gao, Peak AoI Minimization with Directional Charging for Data Collection at Wireless-Powered Network Edge, **IEEE Transactions on Services Computing**, accepted
 
 1. F. Huo, Z. Liu, J. Guo, **W. Xu**, S. Guo, UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection, **Elsevier Neural Networks**, accepted
 
