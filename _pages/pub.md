@@ -1,5 +1,5 @@
 # 📝 Full Publications
-**Publication Index: 1 Monograph, 1 Patent, 52 [Journal](#journal-papers) and 39 [Conference](#conference-papers) papers.**
+**Publication Index: 1 Monograph, 1 Patent, 52 [Journal](#journal-papers) and 40 [Conference](#conference-papers) papers.**
 <!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
 ## Book
   - **W. Xu**, X. Shen, H. Zhou, [Internet Access in Vehicular Networks](https://link.springer.com/content/pdf/10.1007/978-3-030-88991-3.pdf), **Springer**, Dec, 2021
@@ -114,6 +114,8 @@
 47. Y. Bi, H. Zhou, **W. Xu**, X. Shen, H. Zhao, [An efficient PMIPv6-based handoff scheme for urban vehicular networks](https://ieeexplore.ieee.org/abstract/document/7534784/), **IEEE transactions on intelligent transportation systems**, vol.17, no.12, pp.3613–3628, **2016**
 
 ## Conference Papers
+
+1. Z. Lu, **W. Xu**, X. Xie, M. Tu, H. Wang, C. Hua, Physical Layer Overshadowing Attack on Semantic Communication System, IEEE **ICC'24**
 
 1. Y. Liu, H. Wang, S. Wang, Z. He, **W. Xu**, J. Zhu, F. Yang, Disentangle Estimation of Casual Effects from Cross-Silo Data, (**ICASSP2024**)
 
