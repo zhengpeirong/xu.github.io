@@ -117,6 +117,8 @@
 
 ## Conference Papers
 
+1. F. Huo, **W. Xu**, J. Guo, H. Wang, S. Guo, C2KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation, IEEE/CVF **CVPR** 2024
+
 1. Z. Lu, **W. Xu**, X. Xie, M. Tu, H. Wang, C. Hua, Physical Layer Overshadowing Attack on Semantic Communication System, IEEE **ICC'24**
 
 1. Y. Liu, H. Wang, S. Wang, Z. He, **W. Xu**, J. Zhu, F. Yang, Disentangle Estimation of Casual Effects from Cross-Silo Data, (**ICASSP2024**)
