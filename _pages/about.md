@@ -65,8 +65,8 @@ I received B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, supe
 
 # 💻 Mentoring
 
-- *2024.01 - now*, Peirong Zheng, Ph.D. student at PolyU, Chief supervisor
-- *2022.09 - now*, Fushuo Huo, Ph.D. student at PolyU, Chief supervisor
+- *2024.01 - now*, Peirong Zheng, Ph.D. student at PolyU, Chief supervisor.
+- *2022.09 - now*, Fushuo Huo, Ph.D. student at PolyU, Chief supervisor.
 - *2022.09 - now*, Jinyu Chen, Ph.D. student at PolyU, Chief supervisor.
 - *2022.09 - now*, Yunfeng Fan, Ph.D. student at PolyU, Chief supervisor.
 - *2021.09 - now*, Zhaoyi Lu, Remote Ph.D. student at SJTU, Co-supervisor.
