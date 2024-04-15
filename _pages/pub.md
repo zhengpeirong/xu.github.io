@@ -1,5 +1,5 @@
 # 📝 Full Publications
-**Publication Index: 1 Monograph, 1 Patent, 53 [Journal](#journal-papers) and 41 [Conference](#conference-papers) papers.**
+**Publication Index: 1 Monograph, 1 Patent, 54 [Journal](#journal-papers) and 41 [Conference](#conference-papers) papers.**
 <!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
 ## Book
   - **W. Xu**, X. Shen, H. Zhou, [Internet Access in Vehicular Networks](https://link.springer.com/content/pdf/10.1007/978-3-030-88991-3.pdf), **Springer**, Dec, 2021
