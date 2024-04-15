@@ -9,6 +9,8 @@
 
 ## Journal Papers
 
+1. J. Li, S. Guo, W. Liang, J. Wang, Q. Chen, **W. Xu**, K. Wei, X. Jia, Mobility-Aware Utility Maximization in Digital Twin-Enabled Serverless Edge Computing, IEEE Transactions on Computers, 2024
+
 1. J. Guo, H. Wang, Y. Xu, **W. Xu**, Y. Zhan, Y. Sun, S. Guo, Multi-modal Dual-embedding Networks for Malware Openset Recognition, **IEEE Transactions on Neural Networks and Learning Systems**, 2024
 
 1. D. Chen, **W. Xu**, R. Li, H. Wang, Y. Qi, P. Zhou, S. Guo, Caching User-Generated Content in Distributed Autonomous Networks via Contextual Bandit, **IEEE Transactions on Mobile Computing**, 2024
