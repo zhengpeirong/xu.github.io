@@ -5,6 +5,83 @@
             <ol class="bibliography">
                 <li>
                     <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">CVPR’24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">C<sup>2</sup> KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation
+                            </div>
+                            <div class="author"> Fushuo Huo, Wenchao Xu, Jingcai Guo, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Haozhao Wang, Song Guo' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>In Proceedings of the IEEE/CVF Conference on Computer
+                                    Vision and Pattern Recognition</em>, 2024 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Existing Knowledge Distillation (KD) methods typically focus on transferring knowledge from a large-capacity teacher to a low-capacity student model, achieving substantial success in unimodal knowledge transfer. However, existing methods can hardly be extended to Cross-Modal Knowledge Distillation (CMKD), where the knowledge is transferred from a teacher modality to a different student modality, with inference only on the distilled student modality. We empirically reveal that the modality gap, i.e., modality imbalance and soft label misalignment, incurs the in- effectiveness of traditional KD in CMKD. As a solution, we propose a novel Customized Crossmodal Knowledge Distillation (C2KD). Specifically, to alleviate the modality gap, the pre-trained teacher performs bidirectional distillation with the student to provide customized knowledge. The On-the-Fly Selection Distillation(OFSD) strategy is ap- plied to selectively filter out the samples with misaligned soft labels, where we distill cross-modal knowledge from non-target classes to avoid the modality imbalance issue. To further provide receptive cross-modal knowledge, proxy student and teacher, inheriting unimodal and cross-modal knowledge, is formulated to progressively transfer cross- modal knowledge through bidirectional distillation. Experimental results on audio-visual, image-text, and RGB-depth datasets demonstrate that our method can effectively trans- fer knowledge across modalities, achieving superior performance against traditional KD by a large margin.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ICML'24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">FedBAT: Communication-efficient Federated Learning via Learnable Binarization
+                            </div>
+                            <div class="author"> Shiwei Li, Wenchao Xu, Haozhao Wang, and <span
+                                    class="more-authors" title="click to view 7 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '7 more authors' ? 'Xing Tang, Yining Qi, Shijie Xu, weihongluo, Yuhua Li, xiugiang He, Ruixuan Li' : '7 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">7 more authors</span> </div>
+                            <div class="periodical">  <em>In Proceedings of the 40th International Conference on Machine Learning</em>, 2024 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Federated learning is a promising distributed machine learning paradigm that can effectively exploit large-scale data without exposing users’ privacy. However, it may incur significant communication overhead, thereby potentially impairing the training efficiency. To address this challenge, numerous studies suggest binarizing the model updates, which can reduce the communication data volume significantly. Nonetheless, traditional methods usually binarize model updates in a post-training manner, resulting in significant approximation errors and consequent degradation in model accuracy. To this end, we propose Federated Binarization-aware Training (FedBAT), a novel framework that directly learns binary model updates during the local training process, thus inherently reducing the approximation errors. FedBAT incorporates an innovative binarization operator, along with meticulously designed derivatives to facilitate efficient learning. In addition, we establish theoretical guarantees regarding the convergence of FedBAT. Extensive experiments are conducted on four popular datasets. The results show that FedBAT significantly accelerates the convergence and exceeds the accuracy of binarization methods by up to 9%, even surpassing that of FedAvg in some cases.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ICML'24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Contamination-Resilient Anomaly Detection via Adversarial Learning on Partially-Observed Normal and Anomalous Data
+                            </div>
+                            <div class="author"> Wenxi Lv, Qinliang Su, Hai Wan, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Hongteng Xu, Wenchao Xu' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical">  <em>In Proceedings of the 40th International Conference on Machine Learning</em>, 2024 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Many existing anomaly detection methods assume the availability of a large-scale normal dataset. But for many applications, limited by resources, removing all anomalous samples from a large unlabeled dataset is unrealistic, resulting in contaminated datasets. To detect anomalies accurately under such scenarios, from the probabilistic perspective, the key question becomes how to learn the normal-data distribution from a contaminated dataset. To this end, we propose to collect two additional small datasets that are comprised of partially-observed normal and anomaly samples, and then use them to help learn the distribution under an adversarial learning scheme. We prove that under some mild conditions, the proposed method is able to learn the correct normal-data distribution. Then, we consider the overfitting issue caused by the small size of the two additional datasets, and a correctness-guaranteed flipping mechanism is further developed to alleviate it. Theoretical results under incomplete observed anomaly types are also presented. Extensive experimental results demonstrate that our method outperforms representative baselines when detecting anomalies under contaminated datasets.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ICML'24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Amend to Alignment: Decoupled Prompt Tuning for Mitigating Spurious Correlation in Vision-Language Models
+                            </div>
+                            <div class="author"> Jie ZHANG, Xiaosong Ma, Song Guo, and <span
+                                    class="more-authors" title="click to view 4 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Peng Li, Wenchao Xu, Xueyang Tang, Zicong Hong' : '4 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">4 more authors</span> </div>
+                            <div class="periodical">  <em>In Proceedings of the 40th International Conference on Machine Learning</em>, 2024 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Fine-tuning the learnable prompt for a pre-trained vision-language model (VLM), such as CLIP, has demonstrated exceptional efficiency in adapting to a broad range of downstream tasks. Existing prompt tuning methods for VLMs do not distinguish spurious features introduced by biased training data from invariant features, and employ a uniform alignment process when adapting to unseen target domains. This can impair the cross-modal feature alignment when the test data significantly deviate from the distribution of the training data, resulting in a poor out-ofdistribution (OOD) generalization performance. In this paper, we reveal that the prompt tuning failure in such OOD scenarios can be attribute to the undesired alignment between the textual and the spurious feature. As a solution, we propose CoOPood, a fine-grained prompt tuning method that can discern the causal features and deliberately align the text modality with the invariant feature. Specifically, we design two independent contrastive phases using two lightweight projection layers during the alignment, each with different objectives: 1) pulling the text embedding closer to the invariant image embedding and 2) pushing the text embedding away from the spurious image embedding. We have illustrated that CoOPood can serve as a general framework for VLMs and can be seamlessly integrated with existing prompt tuning methods. Extensive experiments on various OOD datasets demonstrate the performance superiority over state-of-the-art methods.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
                         <div class="col-sm-2 abbr"><abbr class="badge">INFOCOM’24</abbr></div>
                         <div id="chen2024otas" class="col-sm-8">
                             <div class="title">OTAS: An Elastic Transformer Serving System via Token Adaptation
@@ -368,10 +445,10 @@
                                     class="more-authors" title="click to view 1 more author"
                                     onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '1 more author' ? 'Wenchao Xu' : '1 more author'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">1
                                     more author</span> </div>
-                            <div class="periodical"> 2023 </div>
+                            <div class="periodical">  <em>In Proceedings of the 40th International Conference on Machine Learning</em>, 2023 </div>
                             <div class="periodical"> </div>
                             <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
-                                <a href="https://ieeexplore.ieee.org/abstract/document/10255325/"
+                                <a href="https://dl.acm.org/doi/abs/10.5555/3618408.3620149"
                                     class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
                                     target="_blank">HTML</a> </div>
                             <div class="abstract hidden">
@@ -741,7 +818,7 @@
                     </div>
                 </li>
             </ol>
-            <h2 class="bibliography">2021</h2>
+            <!-- <h2 class="bibliography">2021</h2>
             <ol class="bibliography">
                 <li>
                     <div class="row">
@@ -830,8 +907,8 @@
                         </div>
                     </div>
                 </li>
-            </ol>
-            <h2 class="bibliography">2020</h2>
+            </ol> -->
+            <!-- <h2 class="bibliography">2020</h2>
             <ol class="bibliography">
                 <li>
                     <div class="row">
@@ -873,7 +950,7 @@
                         </div>
                     </div>
                 </li>
-            </ol>
+            </ol> -->
         </div>
     </article>
 </div>
